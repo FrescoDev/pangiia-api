@@ -54,6 +54,6 @@ Example: http:/{url}/meta
 Response body:
 
     {
-        "description": "pangiia-api",
+        "description": "pangiia api",
         "status": "ok"
     }
