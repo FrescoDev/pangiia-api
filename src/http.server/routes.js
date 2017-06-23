@@ -1,4 +1,4 @@
-import { getMetadataRequestHandler, getWidgetdataRequestHandler } from './resources'
+import { getMetadataRequestHandler, getWidgetdataRequestHandler } from './resources/request.handlers'
 
 import { Router } from 'express'
 
