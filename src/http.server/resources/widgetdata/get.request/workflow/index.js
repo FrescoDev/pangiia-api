@@ -1,6 +1,4 @@
-import convertXmlToObject from './steps/convert.xml.to.json'
-import mapRSSFeedToWidgetFeed from './steps/map.rss.feed.to.widget.feed'
-import retrieveRSSFeedXml from './steps/retrieve.parliament.calendar.rss.feed'
+import { convertXmlToObject, mapRSSFeedToWidgetFeed, retrieveRSSFeedXml } from '../workflow/steps'
 
 /**
  * Description: encapsulates procredural information process flow of the http request (GET widget data) 
