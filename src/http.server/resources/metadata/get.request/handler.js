@@ -11,7 +11,7 @@
 
 const getMetadataRequestHandler = (req, res) => {
     res.json({
-        description: 'rest api component',
+        description: 'pangiia api',
         health: 'ok'
     })
 }
