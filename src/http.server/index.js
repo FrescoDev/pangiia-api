@@ -8,7 +8,7 @@ import morgan from 'morgan'
 import routes from './routes'
 import settings from '../configuration'
 
-let app = express()
+const app = express()
 
 // Adds some security best practices
 app.use(helmet())
