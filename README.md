@@ -5,7 +5,7 @@ The Pangiia API
 * DEV URL: [__DEV_LINK__]
 * LIVE URL: [__LIVE_LINK__]
 
-[![Build Status](__BUILD_LINK__)](__BUILD_LINK__)
+[![Build Status](https://travis-ci.org/FrescoDev/pangiia-api.svg?branch=master)](https://travis-ci.org/FrescoDev/pangiia-api)
 
 ### Prerequisities
 
