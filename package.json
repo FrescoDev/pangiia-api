@@ -11,7 +11,7 @@
         "test": "mocha --recursive --reporter spec --compilers js:babel-register --require babel-polyfill tests",
         "test:watch": "nodemon --exec npm run test tests",
         "coverage": "babel-node ./node_modules/.bin/isparta cover _mocha -- --recursive --reporter spec --compilers js:babel-register tests",
-        "validate": "npm outdated --depth 0 && dependency-check .",
+        "validate": "npm outdated --depth 0",
         "ci": "npm install && npm run test && npm run validate"
     },
     "repository": {
@@ -54,6 +54,7 @@
         "chai": "3.5.0",
         "chai-http": "3.0.0",
         "eslint": "3.18.0",
+        "eslint-plugin-babel": "^4.1.1",
         "mocha": "3.2.0",
         "nodemon": "1.11.0"
     }
