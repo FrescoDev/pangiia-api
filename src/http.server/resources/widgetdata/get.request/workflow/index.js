@@ -8,26 +8,17 @@ import { convertXmlToObject, mapRSSFeedToWidgetFeed, retrieveRSSFeedXml } from '
  * @return  {string} The process outcome 
  */
 const processRequest = async(httpRequest) => {
-    try {
-        // workflow step 1: get the calendar events
-        const rssParliamentCalendarFeedXml = await retrieveRSSFeedXml()
 
-        // workflow step 2: convert the calendar events from xml to json
-        const sourceFeedDataObject = convertXmlToObject(rssParliamentCalendarFeedXml)
+    // workflow step 1: get the calendar events
+    const rssParliamentCalendarFeedXml = await retrieveRSSFeedXml()
 
-        // workflow step 3: reshape the calendar event data to fit our client
-        const targetFeedDataObject = mapRSSFeedToWidgetFeed(sourceFeedDataObject)
+    // workflow step 2: convert the calendar events from xml to json
+    const sourceFeedDataObject = convertXmlToObject(rssParliamentCalendarFeedXml)
 
-        return targetFeedDataObject
+    // workflow step 3: reshape the calendar event data to fit our client
+    const targetFeedDataObject = mapRSSFeedToWidgetFeed(sourceFeedDataObject)
 
-    } catch (error) {
-        console.error(`
-        Procedural workflow process for handling of the http Request : ${httpRequest} failed with error:
-        
-        ${error}`);
-
-        throw new Error(error)
-    }
+    return targetFeedDataObject
 }
 
 export default processRequest
