@@ -8,6 +8,9 @@ import morgan from 'morgan'
 import routes from './routes'
 import settings from '../configuration'
 
+// Make settings globally accessible
+global.settings = settings
+
 const app = express()
 
 // Adds some security best practices

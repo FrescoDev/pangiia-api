@@ -1,4 +1,4 @@
-import { getMetadataRequestHandler, getWidgetdataRequestHandler } from './resources/request.handlers'
+import { getEventdataRequestHandler, getMetadataRequestHandler } from './resources/request.handlers'
 
 import { Router } from 'express'
 
@@ -7,10 +7,10 @@ import { Router } from 'express'
  * 
  * GET /meta will retrieve the health status of the api e.g. OK
  * 
- * GET /widget will retrieve the RSS feed data from the calendar parliament wbesite and map it for consumption by the client
+ * GET /event will retrieve the RSS feed data from the calendar parliament wbesite and map it for consumption by the client
  */
 const routes = new Router()
     .get('/meta', getMetadataRequestHandler)
-    .get('/widget', getWidgetdataRequestHandler)
+    .get('/eventfeed', getEventdataRequestHandler)
 
 export default routes

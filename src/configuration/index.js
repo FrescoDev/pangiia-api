@@ -15,7 +15,7 @@ const defaultConfig = {
     },
     dataSources: {
         parliamentCalendarRSSFeed: {
-            mainUrl: `http://services.parliament.uk/calendar/all.rss`
+            mainUrl: 'http://services.parliament.uk/calendar/all.rss'
         }
     },
     root: path.normalize(__dirname + '/../../..'),
@@ -29,10 +29,7 @@ const defaultConfig = {
 const environmentConfigs = {
     development: {},
     test: {
-        port: 5678,
-        security: {
-            saltRounds: 4
-        }
+        port: 5678
     },
     production: {}
 }
