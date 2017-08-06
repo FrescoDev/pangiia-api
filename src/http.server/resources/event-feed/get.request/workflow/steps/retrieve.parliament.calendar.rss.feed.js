@@ -5,13 +5,19 @@ import request from 'requisition'
  * 
  * @return  {string} The string specifying the parliamentary schedule feed in xml format.
  */
-const retrieveRSSFeedXml = async() => {
+const retrieveRSSFeedXml = async () => {
     try {
         const url = global.settings.dataSources.parliamentCalendarRSSFeed.mainUrl
         const response = await request(url)
+
+        if (response.statusCode != 200) {
+            throw new Error('Unable to retrieve response from parliament calendar RSS Feed')
+        }
+
         const parliamentCalendarRSSFeedXml = await response.text()
 
         return parliamentCalendarRSSFeedXml
+
 
     } catch (error) {
         console.error(`
