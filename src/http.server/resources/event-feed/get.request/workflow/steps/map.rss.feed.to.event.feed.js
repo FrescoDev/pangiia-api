@@ -4,7 +4,7 @@
  * @param  {object} RSSFeed The RSS feed object
  * @return  {object} The object denoting the parliament calendar RSS feed data in reshaped for the consuming event container feed.
  */
-const mapRSSFeedToEventFeed = (RSSFeed) => {
+const mapRSSFeedToEventFeed = RSSFeed => {
     try {
         const eventFeedArray = RSSFeed.rss.channel.item.map(RSSFeedItem => {
             return {

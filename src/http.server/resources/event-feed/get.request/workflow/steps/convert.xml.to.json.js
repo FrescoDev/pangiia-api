@@ -6,7 +6,7 @@ import parser from 'xml2json'
  * @param  {string} RSSFeedXml The RSS feed GET request response as xml
  * @return  {object} The object denoting the parliament calendar RSS feed data in JSON format
  */
-const convertXmlToObject = (RSSFeedXml) => {
+const convertXmlToJSON = RSSFeedXml => {
     try {
         const options = { object: true }
         const parliamentCalendarRSSFeedJson = parser.toJson(RSSFeedXml, options)
@@ -23,4 +23,4 @@ const convertXmlToObject = (RSSFeedXml) => {
     }
 }
 
-export default convertXmlToObject
+export default convertXmlToJSON

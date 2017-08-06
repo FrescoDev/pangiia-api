@@ -1,7 +1,7 @@
-import getEventdataRequestHandler from './eventdata/get.request/handler'
-import getMetadataRequestHandler from './metadata/get.request/handler'
+import getEventfeedRequestHandler from './event-feed/get.request/handler'
+import getServerStatusRequestHandler from './server-status/get.request/handler'
 
 module.exports = {
-    getMetadataRequestHandler,
-    getEventdataRequestHandler
+    getServerStatusRequestHandler,
+    getEventfeedRequestHandler
 };

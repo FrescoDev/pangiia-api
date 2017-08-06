@@ -4,11 +4,11 @@ import server from '../../harness.setup/testing.server'
 
 const expect = chai.expect
 
-describe('Call to GET event feed data at /eventfeed endpoint', () => {
+describe('Call to GET server status at /server-status endpoint', () => {
     describe('#200', () => {
         it('should return json', (done) => {
             server
-                .get('/eventfeed')
+                .get('/server-status')
                 .end((err, res) => {
                     expect(res)
                         .to
@@ -17,6 +17,21 @@ describe('Call to GET event feed data at /eventfeed endpoint', () => {
                     expect(res.type)
                         .to
                         .eql('application/json')
+                    done()
+                })
+        })
+
+        it('should return an OK status', (done) => {
+            server
+                .get('/server-status')
+                .end((err, res) => {
+                    expect(res)
+                        .to
+                        .have
+                        .status(200)
+                    expect(res.body.health)
+                        .to
+                        .eql('ok')
                     done()
                 })
         })
