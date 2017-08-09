@@ -1,3 +1,4 @@
+import striptags from 'striptags'
 /**
  * Description: Simple map of the RSS feed data object to the destination event feed.
  * 
@@ -7,10 +8,26 @@
 const mapRSSFeedToEventFeed = RSSFeed => {
     try {
         const eventFeedArray = RSSFeed.rss.channel.item.map(RSSFeedItem => {
+
+            const parliamentaryEvent = RSSFeedItem['parlycal:event']
+
+            const parliamentaryEventDate = parliamentaryEvent['parlycal:date']
+            const parliamentaryEventTime = parliamentaryEvent['parlycal:startTime']
+            const parliamentaryEventHouse = parliamentaryEvent['parlycal:house']
+            const parliamentaryEventChamber = parliamentaryEvent['parlycal:chamber']
+
+            const cleanDescriptionString = rawString => striptags(rawString.replace('       ', '').replace('      ', ''))
+
+            const description = cleanDescriptionString(RSSFeedItem.description)
+
             return {
+                scheduledTime: parliamentaryEventTime,
+                scheduledDate: parliamentaryEventDate,
+                house: parliamentaryEventHouse,
+                chamber: parliamentaryEventChamber,
                 title: RSSFeedItem.title,
-                category: RSSFeedItem.category,
-                description: RSSFeedItem.description
+                categories: RSSFeedItem.category,
+                description: description,
             }
         })
 

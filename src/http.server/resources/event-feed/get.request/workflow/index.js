@@ -1,4 +1,8 @@
-import { convertXmlToJSON, mapRSSFeedToEventFeed, retrieveRSSFeedXml } from '../workflow/steps'
+import {
+    convertXmlToJSON,
+    mapRSSFeedToEventFeed,
+    retrieveRSSFeedXml
+} from '../workflow/steps'
 
 /**
  * Description: encapsulates procredural information process flow of the http request (GET event data) 
@@ -7,7 +11,7 @@ import { convertXmlToJSON, mapRSSFeedToEventFeed, retrieveRSSFeedXml } from '../
  * @return  {object} The process outcome 
  */
 const processRequest = async () => {
-    
+
     // workflow step 1: get the calendar events in their native format
     const rssParliamentCalendarFeedXml = await retrieveRSSFeedXml()
 
