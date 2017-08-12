@@ -1,11 +1,16 @@
 import striptags from 'striptags'
+
 /**
  * Description: Simple map of the RSS feed data object to the destination event feed.
  * 
  * @param  {object} RSSFeed The RSS feed object
  * @return  {object} The object denoting the parliament calendar RSS feed data in reshaped for the consuming event container feed.
  */
-const mapRSSFeedToEventFeed = RSSFeed => {
+const mapRSSFeedToEventFeed = (RSSFeed, logger) => {
+    const moduleId = global.getCurrentModuleId(__filename)
+
+    logger.info({ modulePath: moduleId, actionType: 'IN_MEMORY', actionDescription: 'DATA_MAPPING' }, 'Request processing workflow step 3: reshape the calendar event data to fit our client');
+
     try {
         const eventFeedArray = RSSFeed.rss.channel.item.map(RSSFeedItem => {
 
@@ -37,12 +42,9 @@ const mapRSSFeedToEventFeed = RSSFeed => {
 
         return eventFeed
     } catch (error) {
-        console.error(`
-        Mapping of calendar parliament RSS feed to event feed failed with error:
-        
-        ${error}`)
+        const debugString = `Mapping of calendar parliament RSS feed to event feed failed with error: ${error}`
 
-        throw new Error(error)
+        throw new Error(debugString)
     }
 }
 

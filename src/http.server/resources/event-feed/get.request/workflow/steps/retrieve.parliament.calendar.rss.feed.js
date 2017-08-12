@@ -6,8 +6,13 @@ import { responseIsInvalid } from '../../../../../shared-utilities/http/validati
  * 
  * @return  {string} The string specifying the parliamentary schedule feed in xml format.
  */
-const retrieveRSSFeedXml = async () => {
+const retrieveRSSFeedXml = async (logger) => {
+    const moduleId = global.getCurrentModuleId(__filename)
+
+    logger.info({ modulePath: moduleId, actionType: 'IO', actionDescription: 'HTTP_REQUEST' }, 'Request processing workflow step 1: get the calendar events in their native format');
+
     try {
+
         const url = global.settings.dataSources.parliamentCalendarRSSFeed.mainUrl
         const response = await request(url)
 
@@ -22,7 +27,6 @@ const retrieveRSSFeedXml = async () => {
     } catch (error) {
         const debugMessage = `HTTP request to calendar RSS Failed with exception message: ${error}`
 
-        console.error(`${debugMessage}`)
         throw new Error(debugMessage)
     }
 }

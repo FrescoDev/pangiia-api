@@ -7,9 +7,13 @@ import methodOverride from 'method-override'
 import morgan from 'morgan'
 import routes from './routes'
 import settings from '../configuration'
+import getCurrentModuleId from './shared-utilities/logging/get.module.id'
 
 // Make settings globally accessible
 global.settings = settings
+
+// Make this util function to retrieve module name globally accessible. Probably not the best idea - remove directly import module if troublesome
+global.getCurrentModuleId = getCurrentModuleId
 
 const app = express()
 
