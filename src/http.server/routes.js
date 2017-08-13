@@ -6,7 +6,7 @@ import bunyan from 'bunyan'
 const logger = bunyan.createLogger({ name: 'PANGIIA-API', serializers: bunyan.stdSerializers });
 const requestLogger = bunyanMiddleware({
     logger: logger,
-    headerName: 'fresco-request-id',
+    headerName: 'Pangiia-Request-Id',
     obscureHeaders: ['authorization']
 });
 
