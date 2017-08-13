@@ -1,20 +1,23 @@
 const getCurrentModuleId = filePath => {
-    let done = false
-    let failSafeCount = 0
-    let pathSectionArray = filePath.split('/')
+    const recursiveIterationLimit = 20
 
-    const popFirstElementUntilDone = () => {
-        failSafeCount++
+    let done = false
+    let recursiveOperationCount = 0
+    let pathNodeArray = filePath.split('/')
+
+    const truncateExtraPathNodes = () => {
+        recursiveOperationCount++
         if (!done) {
-            pathSectionArray.shift()
-            done = (pathSectionArray[0] === 'src' || failSafeCount > 20)
-            popFirstElementUntilDone()
+            pathNodeArray.shift()
+            const currentPathNode = pathNodeArray[0]
+            done = (currentPathNode === 'src' || recursiveOperationCount > recursiveIterationLimit)
+            truncateExtraPathNodes()
         }
     }
 
-    popFirstElementUntilDone()
+    truncateExtraPathNodes()
 
-    const formattedFilePath = pathSectionArray.join('->')
+    const formattedFilePath = pathNodeArray.join('->')
 
     return formattedFilePath
 }
