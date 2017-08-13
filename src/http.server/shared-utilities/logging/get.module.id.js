@@ -1,21 +1,21 @@
 const getCurrentModuleId = filePath => {
+    let pathNodeArray = filePath.split('/')
+    let done = false
+    let recursiveIterationCount = 0
     const recursiveIterationLimit = 20
 
-    let done = false
-    let recursiveOperationCount = 0
-    let pathNodeArray = filePath.split('/')
-
-    const truncateExtraPathNodes = () => {
-        recursiveOperationCount++
+    const removeExtraNodes = () => {
+        recursiveIterationCount++
         if (!done) {
             pathNodeArray.shift()
-            const currentPathNode = pathNodeArray[0]
-            done = (currentPathNode === 'src' || recursiveOperationCount > recursiveIterationLimit)
-            truncateExtraPathNodes()
+            const bottomLevelPathNode = pathNodeArray[0]
+            done = (bottomLevelPathNode === 'src' || recursiveIterationCount > recursiveIterationLimit)
+            removeExtraNodes()
         }
     }
 
-    truncateExtraPathNodes()
+    pathNodeArray.removeExtras = removeExtraNodes
+    pathNodeArray.removeExtras()
 
     const formattedFilePath = pathNodeArray.join('->')
 
