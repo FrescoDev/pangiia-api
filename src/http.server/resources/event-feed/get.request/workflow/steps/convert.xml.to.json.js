@@ -1,7 +1,7 @@
 import parser from 'xml2json'
 
 /**
- * Description: Converts xml input to object output
+ * Description: Converts xml input to JSON output
  * 
  * @param  {string} RSSFeedXml The RSS feed GET request response as xml
  * @return  {object} The object denoting the parliament calendar RSS feed data in JSON format

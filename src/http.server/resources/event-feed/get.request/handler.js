@@ -34,7 +34,7 @@ const getEventfeedRequestHandler = async (req, res) => {
 
         res
             .status(400)
-            .json({ Exception: error.message })
+            .json({ response: error.message })
     }
 }
 
