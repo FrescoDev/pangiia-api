@@ -1,4 +1,4 @@
-const getCurrentModuleId = (filePath) => {
+const getCurrentModuleId = filePath => {
     let done = false
     let failSafeCount = 0
     let pathSectionArray = filePath.split('/')
