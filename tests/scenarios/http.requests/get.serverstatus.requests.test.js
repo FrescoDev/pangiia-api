@@ -29,7 +29,7 @@ describe('Call to GET server status at /server-status endpoint', () => {
                         .to
                         .have
                         .status(200)
-                    expect(res.body.health)
+                    expect(res.body.status)
                         .to
                         .eql('ok')
                     done()
