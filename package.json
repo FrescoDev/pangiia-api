@@ -18,8 +18,8 @@
         "type": "git"
     },
     "engines": {
-        "node": "8.1.2",
-        "npm": "5.0.3"
+        "node": "8.2.1",
+        "npm": "5.3.0"
     },
     "author": "fresco-dev",
     "license": "MIT",
