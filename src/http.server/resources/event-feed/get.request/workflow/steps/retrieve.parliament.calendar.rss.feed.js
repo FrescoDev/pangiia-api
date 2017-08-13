@@ -21,7 +21,6 @@ const retrieveRSSFeedXml = async (logger) => {
         }
 
         const parliamentCalendarRSSFeedXml = await response.text()
-
         return parliamentCalendarRSSFeedXml
 
     } catch (error) {
