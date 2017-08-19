@@ -4,7 +4,6 @@ import {
     retrieveRSSFeedXml
 } from '../workflow/steps'
 
-
 /**
  * Description: encapsulates procredural information process flow of the http request (GET event data) 
  * 

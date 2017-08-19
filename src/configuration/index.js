@@ -27,8 +27,19 @@ const defaultConfig = {
  * Environment specific overrides
  */
 const environmentConfigs = {
-    development: {},
+    development: {
+        dataSources: {
+            parliamentCalendarRSSFeed: {
+                mainUrl: 'http://localhost:3000/rss-calendar-feed'
+            }
+        }
+    },
     test: {
+        dataSources: {
+            parliamentCalendarRSSFeed: {
+                mainUrl: 'http://localhost:3000/rss-calendar-feed'
+            }
+        },
         port: 5678
     },
     production: {}

@@ -1,0 +1,1702 @@
+<rss version="2.0" xmlns:parlycal="http://services.parliament.uk/ns/calendar/feeds">
+  <channel>
+    <title>Houses of Parliament</title>
+    <description>Forthcoming events in the Houses of Parliament</description>
+    <language>en</language>
+    <link>http://services.parliament.uk/calendar/</link>
+    <item>
+      <title>House of Commons Main Chamber - Oral questions</title>
+      <link>http://services.parliament.uk/calendar/Commons/MainChamber/2017/09/14/events.html</link>
+      <guid>http://services.parliament.uk/calendar/2017/09/14/events.html#16199</guid>
+      <author>webmaster@parliament.uk (UK Parliament Webmaster)</author>
+      <category>House of Commons</category>
+      <category>Main Chamber</category>
+      <description>Thursday 14 September 2017 - 9:30am
+        &lt;br /&gt;
+      Digital, Culture, Media and Sport (including Topical Questions)</description>
+      <parlycal:event id="16199">
+        <parlycal:house>Commons</parlycal:house>
+        <parlycal:chamber>Main Chamber</parlycal:chamber>
+        <parlycal:date>2017-09-14</parlycal:date>
+        <parlycal:startTime>09:30:00</parlycal:startTime>
+        <parlycal:comittee>Oral questions</parlycal:comittee>
+        <parlycal:inquiry>Digital, Culture, Media and Sport (including Topical Questions)</parlycal:inquiry>
+        <parlycal:witnesses></parlycal:witnesses>
+        <parlycal:location></parlycal:location>
+        <parlycal:subject>Digital, Culture, Media and Sport (including Topical Questions)</parlycal:subject>
+      </parlycal:event>
+    </item>
+    <item>
+      <title>House of Commons Main Chamber - Oral questions</title>
+      <link>http://services.parliament.uk/calendar/Commons/MainChamber/2017/09/14/events.html</link>
+      <guid>http://services.parliament.uk/calendar/2017/09/14/events.html#16200</guid>
+      <author>webmaster@parliament.uk (UK Parliament Webmaster)</author>
+      <category>House of Commons</category>
+      <category>Main Chamber</category>
+      <description>Thursday 14 September 2017 - 10:10am
+        &lt;br /&gt;
+      Attorney General</description>
+      <parlycal:event id="16200">
+        <parlycal:house>Commons</parlycal:house>
+        <parlycal:chamber>Main Chamber</parlycal:chamber>
+        <parlycal:date>2017-09-14</parlycal:date>
+        <parlycal:startTime>10:10:00</parlycal:startTime>
+        <parlycal:comittee>Oral questions</parlycal:comittee>
+        <parlycal:inquiry>Attorney General</parlycal:inquiry>
+        <parlycal:witnesses></parlycal:witnesses>
+        <parlycal:location></parlycal:location>
+        <parlycal:subject>Attorney General</parlycal:subject>
+      </parlycal:event>
+    </item>
+    <item>
+      <title>House of Lords Select Committee - EU Energy and Environment Sub-Committee</title>
+      <link>http://services.parliament.uk/calendar/Lords/SelectCommittee/2017/09/14/events.html</link>
+      <guid>http://services.parliament.uk/calendar/2017/09/14/events.html#16283</guid>
+      <author>webmaster@parliament.uk (UK Parliament Webmaster)</author>
+      <category>House of Lords</category>
+      <category>Select Committee</category>
+      <description>Thursday 14 September 2017 - 9:30am - Committee Room G
+        &lt;br /&gt;
+      Private Meeting</description>
+      <parlycal:event id="16283">
+        <parlycal:house>Lords</parlycal:house>
+        <parlycal:chamber>Select Committee</parlycal:chamber>
+        <parlycal:date>2017-09-14</parlycal:date>
+        <parlycal:startTime>09:30:00</parlycal:startTime>
+        <parlycal:comittee>EU Energy and Environment Sub-Committee</parlycal:comittee>
+        <parlycal:inquiry>Private Meeting</parlycal:inquiry>
+        <parlycal:witnesses></parlycal:witnesses>
+        <parlycal:location>Committee Room G</parlycal:location>
+        <parlycal:subject>Private Meeting</parlycal:subject>
+      </parlycal:event>
+    </item>
+    <item>
+      <title>House of Lords Select Committee - Services Committee</title>
+      <link>http://services.parliament.uk/calendar/Lords/SelectCommittee/2017/09/14/events.html</link>
+      <guid>http://services.parliament.uk/calendar/2017/09/14/events.html#16206</guid>
+      <author>webmaster@parliament.uk (UK Parliament Webmaster)</author>
+      <category>House of Lords</category>
+      <category>Select Committee</category>
+      <description>Thursday 14 September 2017 - 2:00pm - Other
+        &lt;br /&gt;
+      Private Meeting</description>
+      <parlycal:event id="16206">
+        <parlycal:house>Lords</parlycal:house>
+        <parlycal:chamber>Select Committee</parlycal:chamber>
+        <parlycal:date>2017-09-14</parlycal:date>
+        <parlycal:startTime>14:00:00</parlycal:startTime>
+        <parlycal:comittee>Services Committee</parlycal:comittee>
+        <parlycal:inquiry>Private Meeting</parlycal:inquiry>
+        <parlycal:witnesses></parlycal:witnesses>
+        <parlycal:location>Other</parlycal:location>
+        <parlycal:subject>Private Meeting</parlycal:subject>
+      </parlycal:event>
+    </item>
+    <item>
+      <title>House of Commons Main Chamber - Oral questions</title>
+      <link>http://services.parliament.uk/calendar/Commons/MainChamber/2017/09/13/events.html</link>
+      <guid>http://services.parliament.uk/calendar/2017/09/13/events.html#16197</guid>
+      <author>webmaster@parliament.uk (UK Parliament Webmaster)</author>
+      <category>House of Commons</category>
+      <category>Main Chamber</category>
+      <description>Wednesday 13 September 2017 - 11:30am
+        &lt;br /&gt;
+      Northern Ireland</description>
+      <parlycal:event id="16197">
+        <parlycal:house>Commons</parlycal:house>
+        <parlycal:chamber>Main Chamber</parlycal:chamber>
+        <parlycal:date>2017-09-13</parlycal:date>
+        <parlycal:startTime>11:30:00</parlycal:startTime>
+        <parlycal:comittee>Oral questions</parlycal:comittee>
+        <parlycal:inquiry>Northern Ireland</parlycal:inquiry>
+        <parlycal:witnesses></parlycal:witnesses>
+        <parlycal:location></parlycal:location>
+        <parlycal:subject>Northern Ireland</parlycal:subject>
+      </parlycal:event>
+    </item>
+    <item>
+      <title>House of Commons Main Chamber - Prime Minister's Question Time</title>
+      <link>http://services.parliament.uk/calendar/Commons/MainChamber/2017/09/13/events.html</link>
+      <guid>http://services.parliament.uk/calendar/2017/09/13/events.html#16198</guid>
+      <author>webmaster@parliament.uk (UK Parliament Webmaster)</author>
+      <category>House of Commons</category>
+      <category>Main Chamber</category>
+      <description>Wednesday 13 September 2017 - 12:00pm
+        &lt;br /&gt;
+      </description>
+      <parlycal:event id="16198">
+        <parlycal:house>Commons</parlycal:house>
+        <parlycal:chamber>Main Chamber</parlycal:chamber>
+        <parlycal:date>2017-09-13</parlycal:date>
+        <parlycal:startTime>12:00:00</parlycal:startTime>
+        <parlycal:comittee>Prime Minister's Question Time</parlycal:comittee>
+        <parlycal:inquiry></parlycal:inquiry>
+        <parlycal:witnesses></parlycal:witnesses>
+        <parlycal:location></parlycal:location>
+        <parlycal:subject></parlycal:subject>
+      </parlycal:event>
+    </item>
+    <item>
+      <title>House of Lords Main Chamber - Legislation - Baroness Buscombe</title>
+      <link>http://services.parliament.uk/calendar/Lords/MainChamber/2017/09/13/events.html</link>
+      <guid>http://services.parliament.uk/calendar/2017/09/13/events.html#16126</guid>
+      <author>webmaster@parliament.uk (UK Parliament Webmaster)</author>
+      <category>House of Lords</category>
+      <category>Main Chamber</category>
+      <description>Wednesday 13 September 2017
+        &lt;br /&gt;
+      Financial Guidance and Claims Bill [HL] - Committee stage (day 4) - Committee of the Whole House</description>
+      <parlycal:event id="16126">
+        <parlycal:house>Lords</parlycal:house>
+        <parlycal:chamber>Main Chamber</parlycal:chamber>
+        <parlycal:date>2017-09-13</parlycal:date>
+        <parlycal:comittee>Legislation</parlycal:comittee>
+        <parlycal:inquiry>Financial Guidance and Claims Bill [HL] - Committee stage (day 4) - Committee of the Whole House - Baroness Buscombe</parlycal:inquiry>
+        <parlycal:witnesses></parlycal:witnesses>
+        <parlycal:location></parlycal:location>
+        <parlycal:subject>Financial Guidance and Claims Bill [HL] - Committee stage (day 4) - Committee of the Whole House</parlycal:subject>
+      </parlycal:event>
+    </item>
+    <item>
+      <title>House of Lords Main Chamber - Orders and regulations - Lord Marks of Henley-on-Thames</title>
+      <link>http://services.parliament.uk/calendar/Lords/MainChamber/2017/09/13/events.html</link>
+      <guid>http://services.parliament.uk/calendar/2017/09/13/events.html#16110</guid>
+      <author>webmaster@parliament.uk (UK Parliament Webmaster)</author>
+      <category>House of Lords</category>
+      <category>Main Chamber</category>
+      <description>Wednesday 13 September 2017
+        &lt;br /&gt;
+      Civil Procedure (Amendment) Rules 2017 - motion to regret</description>
+      <parlycal:event id="16110">
+        <parlycal:house>Lords</parlycal:house>
+        <parlycal:chamber>Main Chamber</parlycal:chamber>
+        <parlycal:date>2017-09-13</parlycal:date>
+        <parlycal:comittee>Orders and regulations</parlycal:comittee>
+        <parlycal:inquiry>Civil Procedure (Amendment) Rules 2017 - motion to regret - Lord Marks of Henley-on-Thames</parlycal:inquiry>
+        <parlycal:witnesses></parlycal:witnesses>
+        <parlycal:location></parlycal:location>
+        <parlycal:subject>Civil Procedure (Amendment) Rules 2017 - motion to regret</parlycal:subject>
+      </parlycal:event>
+    </item>
+    <item>
+      <title>House of Lords Select Committee - EU Energy and Environment Sub-Committee</title>
+      <link>http://services.parliament.uk/calendar/Lords/SelectCommittee/2017/09/13/events.html</link>
+      <guid>http://services.parliament.uk/calendar/2017/09/13/events.html#16282</guid>
+      <author>webmaster@parliament.uk (UK Parliament Webmaster)</author>
+      <category>House of Lords</category>
+      <category>Select Committee</category>
+      <description>Wednesday 13 September 2017 - 10:00am - Room 4, Palace of Westminster
+        &lt;br /&gt;
+      Brexit: energy security - </description>
+      <parlycal:event id="16282">
+        <parlycal:house>Lords</parlycal:house>
+        <parlycal:chamber>Select Committee</parlycal:chamber>
+        <parlycal:date>2017-09-13</parlycal:date>
+        <parlycal:startTime>10:00:00</parlycal:startTime>
+        <parlycal:comittee>EU Energy and Environment Sub-Committee</parlycal:comittee>
+        <parlycal:inquiry>Brexit: energy security</parlycal:inquiry>
+        <parlycal:witnesses></parlycal:witnesses>
+        <parlycal:location>Room 4, Palace of Westminster</parlycal:location>
+        <parlycal:subject>Brexit: energy security</parlycal:subject>
+      </parlycal:event>
+    </item>
+    <item>
+      <title>House of Lords Select Committee - EU Financial Affairs Sub-Committee</title>
+      <link>http://services.parliament.uk/calendar/Lords/SelectCommittee/2017/09/13/events.html</link>
+      <guid>http://services.parliament.uk/calendar/2017/09/13/events.html#16286</guid>
+      <author>webmaster@parliament.uk (UK Parliament Webmaster)</author>
+      <category>House of Lords</category>
+      <category>Select Committee</category>
+      <description>Wednesday 13 September 2017 - 10:00am - Room 4A, Palace of Westminster
+        &lt;br /&gt;
+      Financial regulation and supervision following Brexit - </description>
+      <parlycal:event id="16286">
+        <parlycal:house>Lords</parlycal:house>
+        <parlycal:chamber>Select Committee</parlycal:chamber>
+        <parlycal:date>2017-09-13</parlycal:date>
+        <parlycal:startTime>10:00:00</parlycal:startTime>
+        <parlycal:comittee>EU Financial Affairs Sub-Committee</parlycal:comittee>
+        <parlycal:inquiry>Financial regulation and supervision following Brexit</parlycal:inquiry>
+        <parlycal:witnesses></parlycal:witnesses>
+        <parlycal:location>Room 4A, Palace of Westminster</parlycal:location>
+        <parlycal:subject>Financial regulation and supervision following Brexit</parlycal:subject>
+      </parlycal:event>
+    </item>
+    <item>
+      <title>House of Lords Select Committee - Constitution Committee</title>
+      <link>http://services.parliament.uk/calendar/Lords/SelectCommittee/2017/09/13/events.html</link>
+      <guid>http://services.parliament.uk/calendar/2017/09/13/events.html#16113</guid>
+      <author>webmaster@parliament.uk (UK Parliament Webmaster)</author>
+      <category>House of Lords</category>
+      <category>Select Committee</category>
+      <description>Wednesday 13 September 2017 - 10:15am - Room 1, Palace of Westminster
+        &lt;br /&gt;
+      Private Meeting</description>
+      <parlycal:event id="16113">
+        <parlycal:house>Lords</parlycal:house>
+        <parlycal:chamber>Select Committee</parlycal:chamber>
+        <parlycal:date>2017-09-13</parlycal:date>
+        <parlycal:startTime>10:15:00</parlycal:startTime>
+        <parlycal:comittee>Constitution Committee</parlycal:comittee>
+        <parlycal:inquiry>Private Meeting</parlycal:inquiry>
+        <parlycal:witnesses></parlycal:witnesses>
+        <parlycal:location>Room 1, Palace of Westminster</parlycal:location>
+        <parlycal:subject>Private Meeting</parlycal:subject>
+      </parlycal:event>
+    </item>
+    <item>
+      <title>House of Lords Select Committee - Delegated Powers and Regulatory Reform Committee</title>
+      <link>http://services.parliament.uk/calendar/Lords/SelectCommittee/2017/09/13/events.html</link>
+      <guid>http://services.parliament.uk/calendar/2017/09/13/events.html#16138</guid>
+      <author>webmaster@parliament.uk (UK Parliament Webmaster)</author>
+      <category>House of Lords</category>
+      <category>Select Committee</category>
+      <description>Wednesday 13 September 2017 - 10:30am - Room 2A, Palace of Westminster
+        &lt;br /&gt;
+      Private Meeting</description>
+      <parlycal:event id="16138">
+        <parlycal:house>Lords</parlycal:house>
+        <parlycal:chamber>Select Committee</parlycal:chamber>
+        <parlycal:date>2017-09-13</parlycal:date>
+        <parlycal:startTime>10:30:00</parlycal:startTime>
+        <parlycal:comittee>Delegated Powers and Regulatory Reform Committee</parlycal:comittee>
+        <parlycal:inquiry>Private Meeting</parlycal:inquiry>
+        <parlycal:witnesses></parlycal:witnesses>
+        <parlycal:location>Room 2A, Palace of Westminster</parlycal:location>
+        <parlycal:subject>Private Meeting</parlycal:subject>
+      </parlycal:event>
+    </item>
+    <item>
+      <title>House of Lords Select Committee - International Relations Committee</title>
+      <link>http://services.parliament.uk/calendar/Lords/SelectCommittee/2017/09/13/events.html</link>
+      <guid>http://services.parliament.uk/calendar/2017/09/13/events.html#16203</guid>
+      <author>webmaster@parliament.uk (UK Parliament Webmaster)</author>
+      <category>House of Lords</category>
+      <category>Select Committee</category>
+      <description>Wednesday 13 September 2017 - 10:30am - Room 2, Palace of Westminster
+        &lt;br /&gt;
+      Beyond Brexit: the UK and the Balkans - (at 10:30 AM) 
+Professor Marko Prelec, Director of Applied Policy Projects, Central European University</description>
+      <parlycal:event id="16203">
+        <parlycal:house>Lords</parlycal:house>
+        <parlycal:chamber>Select Committee</parlycal:chamber>
+        <parlycal:date>2017-09-13</parlycal:date>
+        <parlycal:startTime>10:30:00</parlycal:startTime>
+        <parlycal:comittee>International Relations Committee</parlycal:comittee>
+        <parlycal:inquiry>Beyond Brexit: the UK and the Balkans</parlycal:inquiry>
+        <parlycal:witnesses>(at 10:30 AM) 
+Professor Marko Prelec, Director of Applied Policy Projects, Central European University</parlycal:witnesses>
+        <parlycal:location>Room 2, Palace of Westminster</parlycal:location>
+        <parlycal:subject>Beyond Brexit: the UK and the Balkans</parlycal:subject>
+      </parlycal:event>
+    </item>
+    <item>
+      <title>House of Lords Select Committee - House of Lords Commission</title>
+      <link>http://services.parliament.uk/calendar/Lords/SelectCommittee/2017/09/13/events.html</link>
+      <guid>http://services.parliament.uk/calendar/2017/09/13/events.html#15846</guid>
+      <author>webmaster@parliament.uk (UK Parliament Webmaster)</author>
+      <category>House of Lords</category>
+      <category>Select Committee</category>
+      <description>Wednesday 13 September 2017 - 10:30am - Committee Room G
+        &lt;br /&gt;
+      Private Meeting</description>
+      <parlycal:event id="15846">
+        <parlycal:house>Lords</parlycal:house>
+        <parlycal:chamber>Select Committee</parlycal:chamber>
+        <parlycal:date>2017-09-13</parlycal:date>
+        <parlycal:startTime>10:30:00</parlycal:startTime>
+        <parlycal:comittee>House of Lords Commission</parlycal:comittee>
+        <parlycal:inquiry>Private Meeting</parlycal:inquiry>
+        <parlycal:witnesses></parlycal:witnesses>
+        <parlycal:location>Committee Room G</parlycal:location>
+        <parlycal:subject>Private Meeting</parlycal:subject>
+      </parlycal:event>
+    </item>
+    <item>
+      <title>House of Commons Main Chamber - Oral questions</title>
+      <link>http://services.parliament.uk/calendar/Commons/MainChamber/2017/09/12/events.html</link>
+      <guid>http://services.parliament.uk/calendar/2017/09/12/events.html#16196</guid>
+      <author>webmaster@parliament.uk (UK Parliament Webmaster)</author>
+      <category>House of Commons</category>
+      <category>Main Chamber</category>
+      <description>Tuesday 12 September 2017 - 11:30am
+        &lt;br /&gt;
+      Business, Energy and Industrial Strategy (including Topical Questions)</description>
+      <parlycal:event id="16196">
+        <parlycal:house>Commons</parlycal:house>
+        <parlycal:chamber>Main Chamber</parlycal:chamber>
+        <parlycal:date>2017-09-12</parlycal:date>
+        <parlycal:startTime>11:30:00</parlycal:startTime>
+        <parlycal:comittee>Oral questions</parlycal:comittee>
+        <parlycal:inquiry>Business, Energy and Industrial Strategy (including Topical Questions)</parlycal:inquiry>
+        <parlycal:witnesses></parlycal:witnesses>
+        <parlycal:location></parlycal:location>
+        <parlycal:subject>Business, Energy and Industrial Strategy (including Topical Questions)</parlycal:subject>
+      </parlycal:event>
+    </item>
+    <item>
+      <title>House of Lords Main Chamber - Legislation - Earl Howe</title>
+      <link>http://services.parliament.uk/calendar/Lords/MainChamber/2017/09/12/events.html</link>
+      <guid>http://services.parliament.uk/calendar/2017/09/12/events.html#16124</guid>
+      <author>webmaster@parliament.uk (UK Parliament Webmaster)</author>
+      <category>House of Lords</category>
+      <category>Main Chamber</category>
+      <description>Tuesday 12 September 2017
+        &lt;br /&gt;
+      Armed Forces (Flexible Working) Bill [HL] - Committee stage - Committee of the Whole House</description>
+      <parlycal:event id="16124">
+        <parlycal:house>Lords</parlycal:house>
+        <parlycal:chamber>Main Chamber</parlycal:chamber>
+        <parlycal:date>2017-09-12</parlycal:date>
+        <parlycal:comittee>Legislation</parlycal:comittee>
+        <parlycal:inquiry>Armed Forces (Flexible Working) Bill [HL] - Committee stage - Committee of the Whole House - Earl Howe</parlycal:inquiry>
+        <parlycal:witnesses></parlycal:witnesses>
+        <parlycal:location></parlycal:location>
+        <parlycal:subject>Armed Forces (Flexible Working) Bill [HL] - Committee stage - Committee of the Whole House</parlycal:subject>
+      </parlycal:event>
+    </item>
+    <item>
+      <title>House of Lords Main Chamber - Short debate - Lord Chidgey</title>
+      <link>http://services.parliament.uk/calendar/Lords/MainChamber/2017/09/12/events.html</link>
+      <guid>http://services.parliament.uk/calendar/2017/09/12/events.html#16109</guid>
+      <author>webmaster@parliament.uk (UK Parliament Webmaster)</author>
+      <category>House of Lords</category>
+      <category>Main Chamber</category>
+      <description>Tuesday 12 September 2017
+        &lt;br /&gt;
+      Commonwealth Summit in London in 2018 to include a People's Forum and  Parliamentary Forum</description>
+      <parlycal:event id="16109">
+        <parlycal:house>Lords</parlycal:house>
+        <parlycal:chamber>Main Chamber</parlycal:chamber>
+        <parlycal:date>2017-09-12</parlycal:date>
+        <parlycal:comittee>Short debate</parlycal:comittee>
+        <parlycal:inquiry>Commonwealth Summit in London in 2018 to include a People's Forum and  Parliamentary Forum - Lord Chidgey</parlycal:inquiry>
+        <parlycal:witnesses></parlycal:witnesses>
+        <parlycal:location></parlycal:location>
+        <parlycal:subject>Commonwealth Summit in London in 2018 to include a People's Forum and  Parliamentary Forum</parlycal:subject>
+      </parlycal:event>
+    </item>
+    <item>
+      <title>House of Lords Select Committee - Science and Technology Committee (Lords)</title>
+      <link>http://services.parliament.uk/calendar/Lords/SelectCommittee/2017/09/12/events.html</link>
+      <guid>http://services.parliament.uk/calendar/2017/09/12/events.html#16201</guid>
+      <author>webmaster@parliament.uk (UK Parliament Webmaster)</author>
+      <category>House of Lords</category>
+      <category>Select Committee</category>
+      <description>Tuesday 12 September 2017 - 10:00am - Room 4A, Palace of Westminster
+        &lt;br /&gt;
+      Private Meeting</description>
+      <parlycal:event id="16201">
+        <parlycal:house>Lords</parlycal:house>
+        <parlycal:chamber>Select Committee</parlycal:chamber>
+        <parlycal:date>2017-09-12</parlycal:date>
+        <parlycal:startTime>10:00:00</parlycal:startTime>
+        <parlycal:comittee>Science and Technology Committee (Lords)</parlycal:comittee>
+        <parlycal:inquiry>Private Meeting</parlycal:inquiry>
+        <parlycal:witnesses></parlycal:witnesses>
+        <parlycal:location>Room 4A, Palace of Westminster</parlycal:location>
+        <parlycal:subject>Private Meeting</parlycal:subject>
+      </parlycal:event>
+    </item>
+    <item>
+      <title>House of Lords Select Committee - EU Justice Sub-Committee</title>
+      <link>http://services.parliament.uk/calendar/Lords/SelectCommittee/2017/09/12/events.html</link>
+      <guid>http://services.parliament.uk/calendar/2017/09/12/events.html#16098</guid>
+      <author>webmaster@parliament.uk (UK Parliament Webmaster)</author>
+      <category>House of Lords</category>
+      <category>Select Committee</category>
+      <description>Tuesday 12 September 2017 - 10:30am - Room 3, Palace of Westminster
+        &lt;br /&gt;
+      Brexit: consumer protection rights - (at 10:45 AM) 
+Mr Roland Green, Deputy General Counsel, Competition and Markets Authority
+Mr Jason Freeman, Director, Consumer Law, Competition and Markets Authority</description>
+      <parlycal:event id="16098">
+        <parlycal:house>Lords</parlycal:house>
+        <parlycal:chamber>Select Committee</parlycal:chamber>
+        <parlycal:date>2017-09-12</parlycal:date>
+        <parlycal:startTime>10:30:00</parlycal:startTime>
+        <parlycal:comittee>EU Justice Sub-Committee</parlycal:comittee>
+        <parlycal:inquiry>Brexit: consumer protection rights</parlycal:inquiry>
+        <parlycal:witnesses>(at 10:45 AM) 
+Mr Roland Green, Deputy General Counsel, Competition and Markets Authority
+Mr Jason Freeman, Director, Consumer Law, Competition and Markets Authority</parlycal:witnesses>
+        <parlycal:location>Room 3, Palace of Westminster</parlycal:location>
+        <parlycal:subject>Brexit: consumer protection rights</parlycal:subject>
+      </parlycal:event>
+    </item>
+    <item>
+      <title>House of Lords Select Committee - Lord Speaker's committee on the size of the House</title>
+      <link>http://services.parliament.uk/calendar/Lords/SelectCommittee/2017/09/12/events.html</link>
+      <guid>http://services.parliament.uk/calendar/2017/09/12/events.html#16080</guid>
+      <author>webmaster@parliament.uk (UK Parliament Webmaster)</author>
+      <category>House of Lords</category>
+      <category>Select Committee</category>
+      <description>Tuesday 12 September 2017 - 10:30am - Other
+        &lt;br /&gt;
+      Private Meeting</description>
+      <parlycal:event id="16080">
+        <parlycal:house>Lords</parlycal:house>
+        <parlycal:chamber>Select Committee</parlycal:chamber>
+        <parlycal:date>2017-09-12</parlycal:date>
+        <parlycal:startTime>10:30:00</parlycal:startTime>
+        <parlycal:comittee>Lord Speaker's committee on the size of the House</parlycal:comittee>
+        <parlycal:inquiry>Private Meeting</parlycal:inquiry>
+        <parlycal:witnesses></parlycal:witnesses>
+        <parlycal:location>Other</parlycal:location>
+        <parlycal:subject>Private Meeting</parlycal:subject>
+      </parlycal:event>
+    </item>
+    <item>
+      <title>House of Lords Select Committee - Communications Committee</title>
+      <link>http://services.parliament.uk/calendar/Lords/SelectCommittee/2017/09/12/events.html</link>
+      <guid>http://services.parliament.uk/calendar/2017/09/12/events.html#16082</guid>
+      <author>webmaster@parliament.uk (UK Parliament Webmaster)</author>
+      <category>House of Lords</category>
+      <category>Select Committee</category>
+      <description>Tuesday 12 September 2017 - 3:15pm - Room 2, Palace of Westminster
+        &lt;br /&gt;
+      Private Meeting</description>
+      <parlycal:event id="16082">
+        <parlycal:house>Lords</parlycal:house>
+        <parlycal:chamber>Select Committee</parlycal:chamber>
+        <parlycal:date>2017-09-12</parlycal:date>
+        <parlycal:startTime>15:15:00</parlycal:startTime>
+        <parlycal:comittee>Communications Committee</parlycal:comittee>
+        <parlycal:inquiry>Private Meeting</parlycal:inquiry>
+        <parlycal:witnesses></parlycal:witnesses>
+        <parlycal:location>Room 2, Palace of Westminster</parlycal:location>
+        <parlycal:subject>Private Meeting</parlycal:subject>
+      </parlycal:event>
+    </item>
+    <item>
+      <title>House of Lords Select Committee - Economic Affairs Committee</title>
+      <link>http://services.parliament.uk/calendar/Lords/SelectCommittee/2017/09/12/events.html</link>
+      <guid>http://services.parliament.uk/calendar/2017/09/12/events.html#16051</guid>
+      <author>webmaster@parliament.uk (UK Parliament Webmaster)</author>
+      <category>House of Lords</category>
+      <category>Select Committee</category>
+      <description>Tuesday 12 September 2017 - 3:30pm - Room 1, Palace of Westminster
+        &lt;br /&gt;
+      Chancellor of the Exchequer - (at 3:35 PM) 
+Rt Hon Philip Hammond MP, Chancellor of the Exchequer</description>
+      <parlycal:event id="16051">
+        <parlycal:house>Lords</parlycal:house>
+        <parlycal:chamber>Select Committee</parlycal:chamber>
+        <parlycal:date>2017-09-12</parlycal:date>
+        <parlycal:startTime>15:30:00</parlycal:startTime>
+        <parlycal:comittee>Economic Affairs Committee</parlycal:comittee>
+        <parlycal:inquiry>Chancellor of the Exchequer</parlycal:inquiry>
+        <parlycal:witnesses>(at 3:35 PM) 
+Rt Hon Philip Hammond MP, Chancellor of the Exchequer</parlycal:witnesses>
+        <parlycal:location>Room 1, Palace of Westminster</parlycal:location>
+        <parlycal:subject>Chancellor of the Exchequer</parlycal:subject>
+      </parlycal:event>
+    </item>
+    <item>
+      <title>House of Lords Select Committee - Secondary Legislation Scrutiny Committee (formerly Merits Committee)</title>
+      <link>http://services.parliament.uk/calendar/Lords/SelectCommittee/2017/09/12/events.html</link>
+      <guid>http://services.parliament.uk/calendar/2017/09/12/events.html#16065</guid>
+      <author>webmaster@parliament.uk (UK Parliament Webmaster)</author>
+      <category>House of Lords</category>
+      <category>Select Committee</category>
+      <description>Tuesday 12 September 2017 - 3:45pm - Room 3A, Palace of Westminster
+        &lt;br /&gt;
+      Quality of information in support of Secondary Legislation - (at 4:00 PM) 
+Ms Elizabeth Gardiner, First Parliamentary Counsel and Permanent Secretary in Cabinet Office, Cabinet Office
+Mr Jonathan Jones, HM Procurator General, Treasury Solicitor and Head of the Government Legal Service, HM Treasury
+Mr Chris Wormald, Head of Government policy profession and Permanent Secretary in Department of Health, Department of Health</description>
+      <parlycal:event id="16065">
+        <parlycal:house>Lords</parlycal:house>
+        <parlycal:chamber>Select Committee</parlycal:chamber>
+        <parlycal:date>2017-09-12</parlycal:date>
+        <parlycal:startTime>15:45:00</parlycal:startTime>
+        <parlycal:comittee>Secondary Legislation Scrutiny Committee (formerly Merits Committee)</parlycal:comittee>
+        <parlycal:inquiry>Quality of information in support of Secondary Legislation</parlycal:inquiry>
+        <parlycal:witnesses>(at 4:00 PM) 
+Ms Elizabeth Gardiner, First Parliamentary Counsel and Permanent Secretary in Cabinet Office, Cabinet Office
+Mr Jonathan Jones, HM Procurator General, Treasury Solicitor and Head of the Government Legal Service, HM Treasury
+Mr Chris Wormald, Head of Government policy profession and Permanent Secretary in Department of Health, Department of Health</parlycal:witnesses>
+        <parlycal:location>Room 3A, Palace of Westminster</parlycal:location>
+        <parlycal:subject>Quality of information in support of Secondary Legislation</parlycal:subject>
+      </parlycal:event>
+    </item>
+    <item>
+      <title>House of Commons Main Chamber - Oral questions</title>
+      <link>http://services.parliament.uk/calendar/Commons/MainChamber/2017/09/11/events.html</link>
+      <guid>http://services.parliament.uk/calendar/2017/09/11/events.html#16195</guid>
+      <author>webmaster@parliament.uk (UK Parliament Webmaster)</author>
+      <category>House of Commons</category>
+      <category>Main Chamber</category>
+      <description>Monday 11 September 2017 - 2:30pm
+        &lt;br /&gt;
+      Education (including Topical Questions)</description>
+      <parlycal:event id="16195">
+        <parlycal:house>Commons</parlycal:house>
+        <parlycal:chamber>Main Chamber</parlycal:chamber>
+        <parlycal:date>2017-09-11</parlycal:date>
+        <parlycal:startTime>14:30:00</parlycal:startTime>
+        <parlycal:comittee>Oral questions</parlycal:comittee>
+        <parlycal:inquiry>Education (including Topical Questions)</parlycal:inquiry>
+        <parlycal:witnesses></parlycal:witnesses>
+        <parlycal:location></parlycal:location>
+        <parlycal:subject>Education (including Topical Questions)</parlycal:subject>
+      </parlycal:event>
+    </item>
+    <item>
+      <title>House of Commons Main Chamber - Legislation - Mr David Davis</title>
+      <link>http://services.parliament.uk/calendar/Commons/MainChamber/2017/09/11/events.html</link>
+      <guid>http://services.parliament.uk/calendar/2017/09/11/events.html#16189</guid>
+      <author>webmaster@parliament.uk (UK Parliament Webmaster)</author>
+      <category>House of Commons</category>
+      <category>Main Chamber</category>
+      <description>Monday 11 September 2017
+        &lt;br /&gt;
+      European Union (Withdrawal) Bill - 2nd reading (day 2)</description>
+      <parlycal:event id="16189">
+        <parlycal:house>Commons</parlycal:house>
+        <parlycal:chamber>Main Chamber</parlycal:chamber>
+        <parlycal:date>2017-09-11</parlycal:date>
+        <parlycal:comittee>Legislation</parlycal:comittee>
+        <parlycal:inquiry>European Union (Withdrawal) Bill - 2nd reading (day 2) - Mr David Davis</parlycal:inquiry>
+        <parlycal:witnesses></parlycal:witnesses>
+        <parlycal:location></parlycal:location>
+        <parlycal:subject>European Union (Withdrawal) Bill - 2nd reading (day 2)</parlycal:subject>
+      </parlycal:event>
+    </item>
+    <item>
+      <title>House of Commons Main Chamber - Adjournment - Mrs Anne-Marie Trevelyan</title>
+      <link>http://services.parliament.uk/calendar/Commons/MainChamber/2017/09/11/events.html</link>
+      <guid>http://services.parliament.uk/calendar/2017/09/11/events.html#16150</guid>
+      <author>webmaster@parliament.uk (UK Parliament Webmaster)</author>
+      <category>House of Commons</category>
+      <category>Main Chamber</category>
+      <description>Monday 11 September 2017
+        &lt;br /&gt;
+      School funding in north Northumberland</description>
+      <parlycal:event id="16150">
+        <parlycal:house>Commons</parlycal:house>
+        <parlycal:chamber>Main Chamber</parlycal:chamber>
+        <parlycal:date>2017-09-11</parlycal:date>
+        <parlycal:comittee>Adjournment</parlycal:comittee>
+        <parlycal:inquiry>School funding in north Northumberland - Mrs Anne-Marie Trevelyan</parlycal:inquiry>
+        <parlycal:witnesses></parlycal:witnesses>
+        <parlycal:location></parlycal:location>
+        <parlycal:subject>School funding in north Northumberland</parlycal:subject>
+      </parlycal:event>
+    </item>
+    <item>
+      <title>House of Lords Main Chamber - Legislation - Baroness Buscombe</title>
+      <link>http://services.parliament.uk/calendar/Lords/MainChamber/2017/09/11/events.html</link>
+      <guid>http://services.parliament.uk/calendar/2017/09/11/events.html#16125</guid>
+      <author>webmaster@parliament.uk (UK Parliament Webmaster)</author>
+      <category>House of Lords</category>
+      <category>Main Chamber</category>
+      <description>Monday 11 September 2017
+        &lt;br /&gt;
+      Financial Guidance and Claims Bill [HL] - Committee stage (day 3) - Committee of the Whole House</description>
+      <parlycal:event id="16125">
+        <parlycal:house>Lords</parlycal:house>
+        <parlycal:chamber>Main Chamber</parlycal:chamber>
+        <parlycal:date>2017-09-11</parlycal:date>
+        <parlycal:comittee>Legislation</parlycal:comittee>
+        <parlycal:inquiry>Financial Guidance and Claims Bill [HL] - Committee stage (day 3) - Committee of the Whole House - Baroness Buscombe</parlycal:inquiry>
+        <parlycal:witnesses></parlycal:witnesses>
+        <parlycal:location></parlycal:location>
+        <parlycal:subject>Financial Guidance and Claims Bill [HL] - Committee stage (day 3) - Committee of the Whole House</parlycal:subject>
+      </parlycal:event>
+    </item>
+    <item>
+      <title>House of Lords Main Chamber - Orders and regulations - The Earl of Lytton</title>
+      <link>http://services.parliament.uk/calendar/Lords/MainChamber/2017/09/11/events.html</link>
+      <guid>http://services.parliament.uk/calendar/2017/09/11/events.html#16108</guid>
+      <author>webmaster@parliament.uk (UK Parliament Webmaster)</author>
+      <category>House of Lords</category>
+      <category>Main Chamber</category>
+      <description>Monday 11 September 2017
+        &lt;br /&gt;
+      Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2017 and the Valuation Tribunal for England (Council Tax and Rating Appeals) (Procedure) (Amendment) Regulations 2017 - motion to regret</description>
+      <parlycal:event id="16108">
+        <parlycal:house>Lords</parlycal:house>
+        <parlycal:chamber>Main Chamber</parlycal:chamber>
+        <parlycal:date>2017-09-11</parlycal:date>
+        <parlycal:comittee>Orders and regulations</parlycal:comittee>
+        <parlycal:inquiry>Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2017 and the Valuation Tribunal for England (Council Tax and Rating Appeals) (Procedure) (Amendment) Regulations 2017 - motion to regret - The Earl of Lytton</parlycal:inquiry>
+        <parlycal:witnesses></parlycal:witnesses>
+        <parlycal:location></parlycal:location>
+        <parlycal:subject>Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2017 and the Valuation Tribunal for England (Council Tax and Rating Appeals) (Procedure) (Amendment) Regulations 2017 - motion to regret</parlycal:subject>
+      </parlycal:event>
+    </item>
+    <item>
+      <title>House of Lords Main Chamber - Legislation - Lord Grocott</title>
+      <link>http://services.parliament.uk/calendar/Lords/MainChamber/2017/09/08/events.html</link>
+      <guid>http://services.parliament.uk/calendar/2017/09/08/events.html#16030</guid>
+      <author>webmaster@parliament.uk (UK Parliament Webmaster)</author>
+      <category>House of Lords</category>
+      <category>Main Chamber</category>
+      <description>Friday 8 September 2017
+        &lt;br /&gt;
+      House of Lords (Hereditary Peers) (Abolition of By-Elections) Bill [HL] - 2nd reading</description>
+      <parlycal:event id="16030">
+        <parlycal:house>Lords</parlycal:house>
+        <parlycal:chamber>Main Chamber</parlycal:chamber>
+        <parlycal:date>2017-09-08</parlycal:date>
+        <parlycal:comittee>Legislation</parlycal:comittee>
+        <parlycal:inquiry>House of Lords (Hereditary Peers) (Abolition of By-Elections) Bill [HL] - 2nd reading - Lord Grocott</parlycal:inquiry>
+        <parlycal:witnesses></parlycal:witnesses>
+        <parlycal:location></parlycal:location>
+        <parlycal:subject>House of Lords (Hereditary Peers) (Abolition of By-Elections) Bill [HL] - 2nd reading</parlycal:subject>
+      </parlycal:event>
+    </item>
+    <item>
+      <title>House of Lords Main Chamber - Legislation - Lord Dholakia</title>
+      <link>http://services.parliament.uk/calendar/Lords/MainChamber/2017/09/08/events.html</link>
+      <guid>http://services.parliament.uk/calendar/2017/09/08/events.html#16031</guid>
+      <author>webmaster@parliament.uk (UK Parliament Webmaster)</author>
+      <category>House of Lords</category>
+      <category>Main Chamber</category>
+      <description>Friday 8 September 2017
+        &lt;br /&gt;
+       Age of Criminal Responsibility Bill [HL] - 2nd reading</description>
+      <parlycal:event id="16031">
+        <parlycal:house>Lords</parlycal:house>
+        <parlycal:chamber>Main Chamber</parlycal:chamber>
+        <parlycal:date>2017-09-08</parlycal:date>
+        <parlycal:comittee>Legislation</parlycal:comittee>
+        <parlycal:inquiry> Age of Criminal Responsibility Bill [HL] - 2nd reading - Lord Dholakia</parlycal:inquiry>
+        <parlycal:witnesses></parlycal:witnesses>
+        <parlycal:location></parlycal:location>
+        <parlycal:subject> Age of Criminal Responsibility Bill [HL] - 2nd reading</parlycal:subject>
+      </parlycal:event>
+    </item>
+    <item>
+      <title>House of Lords Main Chamber - Legislation - Lord McColl of Dulwich</title>
+      <link>http://services.parliament.uk/calendar/Lords/MainChamber/2017/09/08/events.html</link>
+      <guid>http://services.parliament.uk/calendar/2017/09/08/events.html#16032</guid>
+      <author>webmaster@parliament.uk (UK Parliament Webmaster)</author>
+      <category>House of Lords</category>
+      <category>Main Chamber</category>
+      <description>Friday 8 September 2017
+        &lt;br /&gt;
+      Modern Slavery (Victim Support) Bill [HL] - 2nd reading</description>
+      <parlycal:event id="16032">
+        <parlycal:house>Lords</parlycal:house>
+        <parlycal:chamber>Main Chamber</parlycal:chamber>
+        <parlycal:date>2017-09-08</parlycal:date>
+        <parlycal:comittee>Legislation</parlycal:comittee>
+        <parlycal:inquiry>Modern Slavery (Victim Support) Bill [HL] - 2nd reading - Lord McColl of Dulwich</parlycal:inquiry>
+        <parlycal:witnesses></parlycal:witnesses>
+        <parlycal:location></parlycal:location>
+        <parlycal:subject>Modern Slavery (Victim Support) Bill [HL] - 2nd reading</parlycal:subject>
+      </parlycal:event>
+    </item>
+    <item>
+      <title>House of Commons Main Chamber - Oral questions</title>
+      <link>http://services.parliament.uk/calendar/Commons/MainChamber/2017/09/07/events.html</link>
+      <guid>http://services.parliament.uk/calendar/2017/09/07/events.html#16194</guid>
+      <author>webmaster@parliament.uk (UK Parliament Webmaster)</author>
+      <category>House of Commons</category>
+      <category>Main Chamber</category>
+      <description>Thursday 7 September 2017 - 9:30am
+        &lt;br /&gt;
+      Exiting the European Union (including Topical Questions)</description>
+      <parlycal:event id="16194">
+        <parlycal:house>Commons</parlycal:house>
+        <parlycal:chamber>Main Chamber</parlycal:chamber>
+        <parlycal:date>2017-09-07</parlycal:date>
+        <parlycal:startTime>09:30:00</parlycal:startTime>
+        <parlycal:comittee>Oral questions</parlycal:comittee>
+        <parlycal:inquiry>Exiting the European Union (including Topical Questions)</parlycal:inquiry>
+        <parlycal:witnesses></parlycal:witnesses>
+        <parlycal:location></parlycal:location>
+        <parlycal:subject>Exiting the European Union (including Topical Questions)</parlycal:subject>
+      </parlycal:event>
+    </item>
+    <item>
+      <title>House of Commons Main Chamber - Legislation - Mr David Davis</title>
+      <link>http://services.parliament.uk/calendar/Commons/MainChamber/2017/09/07/events.html</link>
+      <guid>http://services.parliament.uk/calendar/2017/09/07/events.html#16186</guid>
+      <author>webmaster@parliament.uk (UK Parliament Webmaster)</author>
+      <category>House of Commons</category>
+      <category>Main Chamber</category>
+      <description>Thursday 7 September 2017
+        &lt;br /&gt;
+      European Union (Withdrawal) Bill - 2nd reading (day 1)</description>
+      <parlycal:event id="16186">
+        <parlycal:house>Commons</parlycal:house>
+        <parlycal:chamber>Main Chamber</parlycal:chamber>
+        <parlycal:date>2017-09-07</parlycal:date>
+        <parlycal:comittee>Legislation</parlycal:comittee>
+        <parlycal:inquiry>European Union (Withdrawal) Bill - 2nd reading (day 1) - Mr David Davis</parlycal:inquiry>
+        <parlycal:witnesses></parlycal:witnesses>
+        <parlycal:location></parlycal:location>
+        <parlycal:subject>European Union (Withdrawal) Bill - 2nd reading (day 1)</parlycal:subject>
+      </parlycal:event>
+    </item>
+    <item>
+      <title>House of Commons Main Chamber - Legislation - Mr David Davis</title>
+      <link>http://services.parliament.uk/calendar/Commons/MainChamber/2017/09/07/events.html</link>
+      <guid>http://services.parliament.uk/calendar/2017/09/07/events.html#16187</guid>
+      <author>webmaster@parliament.uk (UK Parliament Webmaster)</author>
+      <category>House of Commons</category>
+      <category>Main Chamber</category>
+      <description>Thursday 7 September 2017
+        &lt;br /&gt;
+      European Union (Withdrawal) Bill - Money resolution</description>
+      <parlycal:event id="16187">
+        <parlycal:house>Commons</parlycal:house>
+        <parlycal:chamber>Main Chamber</parlycal:chamber>
+        <parlycal:date>2017-09-07</parlycal:date>
+        <parlycal:comittee>Legislation</parlycal:comittee>
+        <parlycal:inquiry>European Union (Withdrawal) Bill - Money resolution - Mr David Davis</parlycal:inquiry>
+        <parlycal:witnesses></parlycal:witnesses>
+        <parlycal:location></parlycal:location>
+        <parlycal:subject>European Union (Withdrawal) Bill - Money resolution</parlycal:subject>
+      </parlycal:event>
+    </item>
+    <item>
+      <title>House of Commons Main Chamber - Legislation - Mr David Davis</title>
+      <link>http://services.parliament.uk/calendar/Commons/MainChamber/2017/09/07/events.html</link>
+      <guid>http://services.parliament.uk/calendar/2017/09/07/events.html#16188</guid>
+      <author>webmaster@parliament.uk (UK Parliament Webmaster)</author>
+      <category>House of Commons</category>
+      <category>Main Chamber</category>
+      <description>Thursday 7 September 2017
+        &lt;br /&gt;
+      European Union (Withdrawal) Bill - Ways and Means resolution</description>
+      <parlycal:event id="16188">
+        <parlycal:house>Commons</parlycal:house>
+        <parlycal:chamber>Main Chamber</parlycal:chamber>
+        <parlycal:date>2017-09-07</parlycal:date>
+        <parlycal:comittee>Legislation</parlycal:comittee>
+        <parlycal:inquiry>European Union (Withdrawal) Bill - Ways and Means resolution - Mr David Davis</parlycal:inquiry>
+        <parlycal:witnesses></parlycal:witnesses>
+        <parlycal:location></parlycal:location>
+        <parlycal:subject>European Union (Withdrawal) Bill - Ways and Means resolution</parlycal:subject>
+      </parlycal:event>
+    </item>
+    <item>
+      <title>House of Commons Main Chamber - Adjournment - Bob Blackman</title>
+      <link>http://services.parliament.uk/calendar/Commons/MainChamber/2017/09/07/events.html</link>
+      <guid>http://services.parliament.uk/calendar/2017/09/07/events.html#16149</guid>
+      <author>webmaster@parliament.uk (UK Parliament Webmaster)</author>
+      <category>House of Commons</category>
+      <category>Main Chamber</category>
+      <description>Thursday 7 September 2017
+        &lt;br /&gt;
+      Hive stadium and the sale of public assets</description>
+      <parlycal:event id="16149">
+        <parlycal:house>Commons</parlycal:house>
+        <parlycal:chamber>Main Chamber</parlycal:chamber>
+        <parlycal:date>2017-09-07</parlycal:date>
+        <parlycal:comittee>Adjournment</parlycal:comittee>
+        <parlycal:inquiry>Hive stadium and the sale of public assets - Bob Blackman</parlycal:inquiry>
+        <parlycal:witnesses></parlycal:witnesses>
+        <parlycal:location></parlycal:location>
+        <parlycal:subject>Hive stadium and the sale of public assets</parlycal:subject>
+      </parlycal:event>
+    </item>
+    <item>
+      <title>House of Lords Main Chamber - Debate - Lord Brown of Eaton-under-Heywood</title>
+      <link>http://services.parliament.uk/calendar/Lords/MainChamber/2017/09/07/events.html</link>
+      <guid>http://services.parliament.uk/calendar/2017/09/07/events.html#16028</guid>
+      <author>webmaster@parliament.uk (UK Parliament Webmaster)</author>
+      <category>House of Lords</category>
+      <category>Main Chamber</category>
+      <description>Thursday 7 September 2017
+        &lt;br /&gt;
+      Overcrowding in UK prisons</description>
+      <parlycal:event id="16028">
+        <parlycal:house>Lords</parlycal:house>
+        <parlycal:chamber>Main Chamber</parlycal:chamber>
+        <parlycal:date>2017-09-07</parlycal:date>
+        <parlycal:comittee>Debate</parlycal:comittee>
+        <parlycal:inquiry>Overcrowding in UK prisons - Lord Brown of Eaton-under-Heywood</parlycal:inquiry>
+        <parlycal:witnesses></parlycal:witnesses>
+        <parlycal:location></parlycal:location>
+        <parlycal:subject>Overcrowding in UK prisons</parlycal:subject>
+      </parlycal:event>
+    </item>
+    <item>
+      <title>House of Lords Main Chamber - Debate - Baroness Lane-Fox of Soho</title>
+      <link>http://services.parliament.uk/calendar/Lords/MainChamber/2017/09/07/events.html</link>
+      <guid>http://services.parliament.uk/calendar/2017/09/07/events.html#16027</guid>
+      <author>webmaster@parliament.uk (UK Parliament Webmaster)</author>
+      <category>House of Lords</category>
+      <category>Main Chamber</category>
+      <description>Thursday 7 September 2017
+        &lt;br /&gt;
+      Improving digital understanding at all levels of UK society</description>
+      <parlycal:event id="16027">
+        <parlycal:house>Lords</parlycal:house>
+        <parlycal:chamber>Main Chamber</parlycal:chamber>
+        <parlycal:date>2017-09-07</parlycal:date>
+        <parlycal:comittee>Debate</parlycal:comittee>
+        <parlycal:inquiry>Improving digital understanding at all levels of UK society - Baroness Lane-Fox of Soho</parlycal:inquiry>
+        <parlycal:witnesses></parlycal:witnesses>
+        <parlycal:location></parlycal:location>
+        <parlycal:subject>Improving digital understanding at all levels of UK society</parlycal:subject>
+      </parlycal:event>
+    </item>
+    <item>
+      <title>House of Lords Grand Committee - Short debate - Lord Shutt of Greetland</title>
+      <link>http://services.parliament.uk/calendar/Lords/GrandCommittee/2017/09/07/events.html</link>
+      <guid>http://services.parliament.uk/calendar/2017/09/07/events.html#16102</guid>
+      <author>webmaster@parliament.uk (UK Parliament Webmaster)</author>
+      <category>House of Lords</category>
+      <category>Grand Committee</category>
+      <description>Thursday 7 September 2017 - 1:00pm
+        &lt;br /&gt;
+      Transport and major infrastructure needs of Saint Helena, Ascension, Tristan da Cunha and the Falkland Islands</description>
+      <parlycal:event id="16102">
+        <parlycal:house>Lords</parlycal:house>
+        <parlycal:chamber>Grand Committee</parlycal:chamber>
+        <parlycal:date>2017-09-07</parlycal:date>
+        <parlycal:startTime>13:00:00</parlycal:startTime>
+        <parlycal:comittee>Short debate</parlycal:comittee>
+        <parlycal:inquiry>Transport and major infrastructure needs of Saint Helena, Ascension, Tristan da Cunha and the Falkland Islands - Lord Shutt of Greetland</parlycal:inquiry>
+        <parlycal:witnesses></parlycal:witnesses>
+        <parlycal:location></parlycal:location>
+        <parlycal:subject>Transport and major infrastructure needs of Saint Helena, Ascension, Tristan da Cunha and the Falkland Islands</parlycal:subject>
+      </parlycal:event>
+    </item>
+    <item>
+      <title>House of Lords Grand Committee - Short debate - Lord Dykes</title>
+      <link>http://services.parliament.uk/calendar/Lords/GrandCommittee/2017/09/07/events.html</link>
+      <guid>http://services.parliament.uk/calendar/2017/09/07/events.html#16103</guid>
+      <author>webmaster@parliament.uk (UK Parliament Webmaster)</author>
+      <category>House of Lords</category>
+      <category>Grand Committee</category>
+      <description>Thursday 7 September 2017
+        &lt;br /&gt;
+      Regular reports on the progress of Brexit negotiations</description>
+      <parlycal:event id="16103">
+        <parlycal:house>Lords</parlycal:house>
+        <parlycal:chamber>Grand Committee</parlycal:chamber>
+        <parlycal:date>2017-09-07</parlycal:date>
+        <parlycal:comittee>Short debate</parlycal:comittee>
+        <parlycal:inquiry>Regular reports on the progress of Brexit negotiations - Lord Dykes</parlycal:inquiry>
+        <parlycal:witnesses></parlycal:witnesses>
+        <parlycal:location></parlycal:location>
+        <parlycal:subject>Regular reports on the progress of Brexit negotiations</parlycal:subject>
+      </parlycal:event>
+    </item>
+    <item>
+      <title>House of Lords Grand Committee - Short debate - Lord Greaves</title>
+      <link>http://services.parliament.uk/calendar/Lords/GrandCommittee/2017/09/07/events.html</link>
+      <guid>http://services.parliament.uk/calendar/2017/09/07/events.html#16106</guid>
+      <author>webmaster@parliament.uk (UK Parliament Webmaster)</author>
+      <category>House of Lords</category>
+      <category>Grand Committee</category>
+      <description>Thursday 7 September 2017
+        &lt;br /&gt;
+      Law relating to local government elections</description>
+      <parlycal:event id="16106">
+        <parlycal:house>Lords</parlycal:house>
+        <parlycal:chamber>Grand Committee</parlycal:chamber>
+        <parlycal:date>2017-09-07</parlycal:date>
+        <parlycal:comittee>Short debate</parlycal:comittee>
+        <parlycal:inquiry>Law relating to local government elections - Lord Greaves</parlycal:inquiry>
+        <parlycal:witnesses></parlycal:witnesses>
+        <parlycal:location></parlycal:location>
+        <parlycal:subject>Law relating to local government elections</parlycal:subject>
+      </parlycal:event>
+    </item>
+    <item>
+      <title>House of Lords Grand Committee - Short debate - Baroness Meacher</title>
+      <link>http://services.parliament.uk/calendar/Lords/GrandCommittee/2017/09/07/events.html</link>
+      <guid>http://services.parliament.uk/calendar/2017/09/07/events.html#16107</guid>
+      <author>webmaster@parliament.uk (UK Parliament Webmaster)</author>
+      <category>House of Lords</category>
+      <category>Grand Committee</category>
+      <description>Thursday 7 September 2017
+        &lt;br /&gt;
+      Review by the Advisory Council of the Misuse of Drugs on the rescheduling of cannabis</description>
+      <parlycal:event id="16107">
+        <parlycal:house>Lords</parlycal:house>
+        <parlycal:chamber>Grand Committee</parlycal:chamber>
+        <parlycal:date>2017-09-07</parlycal:date>
+        <parlycal:comittee>Short debate</parlycal:comittee>
+        <parlycal:inquiry>Review by the Advisory Council of the Misuse of Drugs on the rescheduling of cannabis - Baroness Meacher</parlycal:inquiry>
+        <parlycal:witnesses></parlycal:witnesses>
+        <parlycal:location></parlycal:location>
+        <parlycal:subject>Review by the Advisory Council of the Misuse of Drugs on the rescheduling of cannabis</parlycal:subject>
+      </parlycal:event>
+    </item>
+    <item>
+      <title>House of Lords Grand Committee - Short debate - Lord Lipsey</title>
+      <link>http://services.parliament.uk/calendar/Lords/GrandCommittee/2017/09/07/events.html</link>
+      <guid>http://services.parliament.uk/calendar/2017/09/07/events.html#16122</guid>
+      <author>webmaster@parliament.uk (UK Parliament Webmaster)</author>
+      <category>House of Lords</category>
+      <category>Grand Committee</category>
+      <description>Thursday 7 September 2017
+        &lt;br /&gt;
+      Deferred payment scheme for funding older people's care</description>
+      <parlycal:event id="16122">
+        <parlycal:house>Lords</parlycal:house>
+        <parlycal:chamber>Grand Committee</parlycal:chamber>
+        <parlycal:date>2017-09-07</parlycal:date>
+        <parlycal:comittee>Short debate</parlycal:comittee>
+        <parlycal:inquiry>Deferred payment scheme for funding older people's care - Lord Lipsey</parlycal:inquiry>
+        <parlycal:witnesses></parlycal:witnesses>
+        <parlycal:location></parlycal:location>
+        <parlycal:subject>Deferred payment scheme for funding older people's care</parlycal:subject>
+      </parlycal:event>
+    </item>
+    <item>
+      <title>House of Lords Select Committee - EU Internal Market Sub-Committee</title>
+      <link>http://services.parliament.uk/calendar/Lords/SelectCommittee/2017/09/07/events.html</link>
+      <guid>http://services.parliament.uk/calendar/2017/09/07/events.html#16205</guid>
+      <author>webmaster@parliament.uk (UK Parliament Webmaster)</author>
+      <category>House of Lords</category>
+      <category>Select Committee</category>
+      <description>Thursday 7 September 2017 - 10:00am - Room 4A, Palace of Westminster
+        &lt;br /&gt;
+      Private Meeting</description>
+      <parlycal:event id="16205">
+        <parlycal:house>Lords</parlycal:house>
+        <parlycal:chamber>Select Committee</parlycal:chamber>
+        <parlycal:date>2017-09-07</parlycal:date>
+        <parlycal:startTime>10:00:00</parlycal:startTime>
+        <parlycal:comittee>EU Internal Market Sub-Committee</parlycal:comittee>
+        <parlycal:inquiry>Private Meeting</parlycal:inquiry>
+        <parlycal:witnesses></parlycal:witnesses>
+        <parlycal:location>Room 4A, Palace of Westminster</parlycal:location>
+        <parlycal:subject>Private Meeting</parlycal:subject>
+      </parlycal:event>
+    </item>
+    <item>
+      <title>House of Commons Westminster Hall - Westminster Hall debate - Kevin Hollinrake</title>
+      <link>http://services.parliament.uk/calendar/Commons/WestminsterHall/2017/09/06/events.html</link>
+      <guid>http://services.parliament.uk/calendar/2017/09/06/events.html#16092</guid>
+      <author>webmaster@parliament.uk (UK Parliament Webmaster)</author>
+      <category>House of Commons</category>
+      <category>Westminster Hall</category>
+      <description>Wednesday 6 September 2017 - 9:30am - 11:00am
+        &lt;br /&gt;
+      Proposed ban on letting agent fees to tenants</description>
+      <parlycal:event id="16092">
+        <parlycal:house>Commons</parlycal:house>
+        <parlycal:chamber>Westminster Hall</parlycal:chamber>
+        <parlycal:date>2017-09-06</parlycal:date>
+        <parlycal:startTime>09:30:00</parlycal:startTime>
+        <parlycal:endTime>11:00:00</parlycal:endTime>
+        <parlycal:comittee>Westminster Hall debate</parlycal:comittee>
+        <parlycal:inquiry>Proposed ban on letting agent fees to tenants - Kevin Hollinrake</parlycal:inquiry>
+        <parlycal:witnesses></parlycal:witnesses>
+        <parlycal:location></parlycal:location>
+        <parlycal:subject>Proposed ban on letting agent fees to tenants</parlycal:subject>
+      </parlycal:event>
+    </item>
+    <item>
+      <title>House of Commons Westminster Hall - Westminster Hall debate - John Stevenson</title>
+      <link>http://services.parliament.uk/calendar/Commons/WestminsterHall/2017/09/06/events.html</link>
+      <guid>http://services.parliament.uk/calendar/2017/09/06/events.html#16093</guid>
+      <author>webmaster@parliament.uk (UK Parliament Webmaster)</author>
+      <category>House of Commons</category>
+      <category>Westminster Hall</category>
+      <description>Wednesday 6 September 2017 - 11:00am - 11:30am
+        &lt;br /&gt;
+      Solar panels on residential properties</description>
+      <parlycal:event id="16093">
+        <parlycal:house>Commons</parlycal:house>
+        <parlycal:chamber>Westminster Hall</parlycal:chamber>
+        <parlycal:date>2017-09-06</parlycal:date>
+        <parlycal:startTime>11:00:00</parlycal:startTime>
+        <parlycal:endTime>11:30:00</parlycal:endTime>
+        <parlycal:comittee>Westminster Hall debate</parlycal:comittee>
+        <parlycal:inquiry>Solar panels on residential properties - John Stevenson</parlycal:inquiry>
+        <parlycal:witnesses></parlycal:witnesses>
+        <parlycal:location></parlycal:location>
+        <parlycal:subject>Solar panels on residential properties</parlycal:subject>
+      </parlycal:event>
+    </item>
+    <item>
+      <title>House of Commons Westminster Hall - Westminster Hall debate - Stuart C. McDonald</title>
+      <link>http://services.parliament.uk/calendar/Commons/WestminsterHall/2017/09/06/events.html</link>
+      <guid>http://services.parliament.uk/calendar/2017/09/06/events.html#16094</guid>
+      <author>webmaster@parliament.uk (UK Parliament Webmaster)</author>
+      <category>House of Commons</category>
+      <category>Westminster Hall</category>
+      <description>Wednesday 6 September 2017 - 2:30pm - 4:00pm
+        &lt;br /&gt;
+      International day of democracy</description>
+      <parlycal:event id="16094">
+        <parlycal:house>Commons</parlycal:house>
+        <parlycal:chamber>Westminster Hall</parlycal:chamber>
+        <parlycal:date>2017-09-06</parlycal:date>
+        <parlycal:startTime>14:30:00</parlycal:startTime>
+        <parlycal:endTime>16:00:00</parlycal:endTime>
+        <parlycal:comittee>Westminster Hall debate</parlycal:comittee>
+        <parlycal:inquiry>International day of democracy - Stuart C. McDonald</parlycal:inquiry>
+        <parlycal:witnesses></parlycal:witnesses>
+        <parlycal:location></parlycal:location>
+        <parlycal:subject>International day of democracy</parlycal:subject>
+      </parlycal:event>
+    </item>
+    <item>
+      <title>House of Commons Westminster Hall - Westminster Hall debate - Justin Madders</title>
+      <link>http://services.parliament.uk/calendar/Commons/WestminsterHall/2017/09/06/events.html</link>
+      <guid>http://services.parliament.uk/calendar/2017/09/06/events.html#16095</guid>
+      <author>webmaster@parliament.uk (UK Parliament Webmaster)</author>
+      <category>House of Commons</category>
+      <category>Westminster Hall</category>
+      <description>Wednesday 6 September 2017 - 4:00pm - 4:30pm
+        &lt;br /&gt;
+      Consular support for British citizens</description>
+      <parlycal:event id="16095">
+        <parlycal:house>Commons</parlycal:house>
+        <parlycal:chamber>Westminster Hall</parlycal:chamber>
+        <parlycal:date>2017-09-06</parlycal:date>
+        <parlycal:startTime>16:00:00</parlycal:startTime>
+        <parlycal:endTime>16:30:00</parlycal:endTime>
+        <parlycal:comittee>Westminster Hall debate</parlycal:comittee>
+        <parlycal:inquiry>Consular support for British citizens - Justin Madders</parlycal:inquiry>
+        <parlycal:witnesses></parlycal:witnesses>
+        <parlycal:location></parlycal:location>
+        <parlycal:subject>Consular support for British citizens</parlycal:subject>
+      </parlycal:event>
+    </item>
+    <item>
+      <title>House of Commons Westminster Hall - Westminster Hall debate - Antoinette Sandbach</title>
+      <link>http://services.parliament.uk/calendar/Commons/WestminsterHall/2017/09/06/events.html</link>
+      <guid>http://services.parliament.uk/calendar/2017/09/06/events.html#16096</guid>
+      <author>webmaster@parliament.uk (UK Parliament Webmaster)</author>
+      <category>House of Commons</category>
+      <category>Westminster Hall</category>
+      <description>Wednesday 6 September 2017 - 4:30pm - 5:30pm
+        &lt;br /&gt;
+      The route of phase 2b of HS2 to Manchester and Leeds</description>
+      <parlycal:event id="16096">
+        <parlycal:house>Commons</parlycal:house>
+        <parlycal:chamber>Westminster Hall</parlycal:chamber>
+        <parlycal:date>2017-09-06</parlycal:date>
+        <parlycal:startTime>16:30:00</parlycal:startTime>
+        <parlycal:endTime>17:30:00</parlycal:endTime>
+        <parlycal:comittee>Westminster Hall debate</parlycal:comittee>
+        <parlycal:inquiry>The route of phase 2b of HS2 to Manchester and Leeds - Antoinette Sandbach</parlycal:inquiry>
+        <parlycal:witnesses></parlycal:witnesses>
+        <parlycal:location></parlycal:location>
+        <parlycal:subject>The route of phase 2b of HS2 to Manchester and Leeds</parlycal:subject>
+      </parlycal:event>
+    </item>
+    <item>
+      <title>House of Commons Main Chamber - Oral questions</title>
+      <link>http://services.parliament.uk/calendar/Commons/MainChamber/2017/09/06/events.html</link>
+      <guid>http://services.parliament.uk/calendar/2017/09/06/events.html#16192</guid>
+      <author>webmaster@parliament.uk (UK Parliament Webmaster)</author>
+      <category>House of Commons</category>
+      <category>Main Chamber</category>
+      <description>Wednesday 6 September 2017 - 11:30am
+        &lt;br /&gt;
+      Wales</description>
+      <parlycal:event id="16192">
+        <parlycal:house>Commons</parlycal:house>
+        <parlycal:chamber>Main Chamber</parlycal:chamber>
+        <parlycal:date>2017-09-06</parlycal:date>
+        <parlycal:startTime>11:30:00</parlycal:startTime>
+        <parlycal:comittee>Oral questions</parlycal:comittee>
+        <parlycal:inquiry>Wales</parlycal:inquiry>
+        <parlycal:witnesses></parlycal:witnesses>
+        <parlycal:location></parlycal:location>
+        <parlycal:subject>Wales</parlycal:subject>
+      </parlycal:event>
+    </item>
+    <item>
+      <title>House of Commons Main Chamber - Prime Minister's Question Time</title>
+      <link>http://services.parliament.uk/calendar/Commons/MainChamber/2017/09/06/events.html</link>
+      <guid>http://services.parliament.uk/calendar/2017/09/06/events.html#16193</guid>
+      <author>webmaster@parliament.uk (UK Parliament Webmaster)</author>
+      <category>House of Commons</category>
+      <category>Main Chamber</category>
+      <description>Wednesday 6 September 2017 - 12:00pm
+        &lt;br /&gt;
+      </description>
+      <parlycal:event id="16193">
+        <parlycal:house>Commons</parlycal:house>
+        <parlycal:chamber>Main Chamber</parlycal:chamber>
+        <parlycal:date>2017-09-06</parlycal:date>
+        <parlycal:startTime>12:00:00</parlycal:startTime>
+        <parlycal:comittee>Prime Minister's Question Time</parlycal:comittee>
+        <parlycal:inquiry></parlycal:inquiry>
+        <parlycal:witnesses></parlycal:witnesses>
+        <parlycal:location></parlycal:location>
+        <parlycal:subject></parlycal:subject>
+      </parlycal:event>
+    </item>
+    <item>
+      <title>House of Commons Main Chamber - Adjournment - Sarah Jones</title>
+      <link>http://services.parliament.uk/calendar/Commons/MainChamber/2017/09/06/events.html</link>
+      <guid>http://services.parliament.uk/calendar/2017/09/06/events.html#16148</guid>
+      <author>webmaster@parliament.uk (UK Parliament Webmaster)</author>
+      <category>House of Commons</category>
+      <category>Main Chamber</category>
+      <description>Wednesday 6 September 2017
+        &lt;br /&gt;
+      Knife crime</description>
+      <parlycal:event id="16148">
+        <parlycal:house>Commons</parlycal:house>
+        <parlycal:chamber>Main Chamber</parlycal:chamber>
+        <parlycal:date>2017-09-06</parlycal:date>
+        <parlycal:comittee>Adjournment</parlycal:comittee>
+        <parlycal:inquiry>Knife crime - Sarah Jones</parlycal:inquiry>
+        <parlycal:witnesses></parlycal:witnesses>
+        <parlycal:location></parlycal:location>
+        <parlycal:subject>Knife crime</parlycal:subject>
+      </parlycal:event>
+    </item>
+    <item>
+      <title>House of Lords Main Chamber - Legislation - Baroness Buscombe</title>
+      <link>http://services.parliament.uk/calendar/Lords/MainChamber/2017/09/06/events.html</link>
+      <guid>http://services.parliament.uk/calendar/2017/09/06/events.html#16029</guid>
+      <author>webmaster@parliament.uk (UK Parliament Webmaster)</author>
+      <category>House of Lords</category>
+      <category>Main Chamber</category>
+      <description>Wednesday 6 September 2017
+        &lt;br /&gt;
+      Financial Guidance and Claims Bill [HL] - Committee stage (day 2) - Committee of the Whole House</description>
+      <parlycal:event id="16029">
+        <parlycal:house>Lords</parlycal:house>
+        <parlycal:chamber>Main Chamber</parlycal:chamber>
+        <parlycal:date>2017-09-06</parlycal:date>
+        <parlycal:comittee>Legislation</parlycal:comittee>
+        <parlycal:inquiry>Financial Guidance and Claims Bill [HL] - Committee stage (day 2) - Committee of the Whole House - Baroness Buscombe</parlycal:inquiry>
+        <parlycal:witnesses></parlycal:witnesses>
+        <parlycal:location></parlycal:location>
+        <parlycal:subject>Financial Guidance and Claims Bill [HL] - Committee stage (day 2) - Committee of the Whole House</parlycal:subject>
+      </parlycal:event>
+    </item>
+    <item>
+      <title>House of Lords Main Chamber - Orders and regulations - Lord Hunt of Kings Heath</title>
+      <link>http://services.parliament.uk/calendar/Lords/MainChamber/2017/09/06/events.html</link>
+      <guid>http://services.parliament.uk/calendar/2017/09/06/events.html#16101</guid>
+      <author>webmaster@parliament.uk (UK Parliament Webmaster)</author>
+      <category>House of Lords</category>
+      <category>Main Chamber</category>
+      <description>Wednesday 6 September 2017
+        &lt;br /&gt;
+      National Health Service (Mandate Requirement) Regulations 2017 - motion to regret</description>
+      <parlycal:event id="16101">
+        <parlycal:house>Lords</parlycal:house>
+        <parlycal:chamber>Main Chamber</parlycal:chamber>
+        <parlycal:date>2017-09-06</parlycal:date>
+        <parlycal:comittee>Orders and regulations</parlycal:comittee>
+        <parlycal:inquiry>National Health Service (Mandate Requirement) Regulations 2017 - motion to regret - Lord Hunt of Kings Heath</parlycal:inquiry>
+        <parlycal:witnesses></parlycal:witnesses>
+        <parlycal:location></parlycal:location>
+        <parlycal:subject>National Health Service (Mandate Requirement) Regulations 2017 - motion to regret</parlycal:subject>
+      </parlycal:event>
+    </item>
+    <item>
+      <title>House of Lords Select Committee - EU Energy and Environment Sub-Committee</title>
+      <link>http://services.parliament.uk/calendar/Lords/SelectCommittee/2017/09/06/events.html</link>
+      <guid>http://services.parliament.uk/calendar/2017/09/06/events.html#16281</guid>
+      <author>webmaster@parliament.uk (UK Parliament Webmaster)</author>
+      <category>House of Lords</category>
+      <category>Select Committee</category>
+      <description>Wednesday 6 September 2017 - 10:00am - Room 2, Palace of Westminster
+        &lt;br /&gt;
+      Brexit: energy security - </description>
+      <parlycal:event id="16281">
+        <parlycal:house>Lords</parlycal:house>
+        <parlycal:chamber>Select Committee</parlycal:chamber>
+        <parlycal:date>2017-09-06</parlycal:date>
+        <parlycal:startTime>10:00:00</parlycal:startTime>
+        <parlycal:comittee>EU Energy and Environment Sub-Committee</parlycal:comittee>
+        <parlycal:inquiry>Brexit: energy security</parlycal:inquiry>
+        <parlycal:witnesses></parlycal:witnesses>
+        <parlycal:location>Room 2, Palace of Westminster</parlycal:location>
+        <parlycal:subject>Brexit: energy security</parlycal:subject>
+      </parlycal:event>
+    </item>
+    <item>
+      <title>House of Lords Select Committee - EU Financial Affairs Sub-Committee</title>
+      <link>http://services.parliament.uk/calendar/Lords/SelectCommittee/2017/09/06/events.html</link>
+      <guid>http://services.parliament.uk/calendar/2017/09/06/events.html#16285</guid>
+      <author>webmaster@parliament.uk (UK Parliament Webmaster)</author>
+      <category>House of Lords</category>
+      <category>Select Committee</category>
+      <description>Wednesday 6 September 2017 - 10:00am - Room 4A, Palace of Westminster
+        &lt;br /&gt;
+      Private Meeting</description>
+      <parlycal:event id="16285">
+        <parlycal:house>Lords</parlycal:house>
+        <parlycal:chamber>Select Committee</parlycal:chamber>
+        <parlycal:date>2017-09-06</parlycal:date>
+        <parlycal:startTime>10:00:00</parlycal:startTime>
+        <parlycal:comittee>EU Financial Affairs Sub-Committee</parlycal:comittee>
+        <parlycal:inquiry>Private Meeting</parlycal:inquiry>
+        <parlycal:witnesses></parlycal:witnesses>
+        <parlycal:location>Room 4A, Palace of Westminster</parlycal:location>
+        <parlycal:subject>Private Meeting</parlycal:subject>
+      </parlycal:event>
+    </item>
+    <item>
+      <title>House of Lords Select Committee - Constitution Committee</title>
+      <link>http://services.parliament.uk/calendar/Lords/SelectCommittee/2017/09/06/events.html</link>
+      <guid>http://services.parliament.uk/calendar/2017/09/06/events.html#16112</guid>
+      <author>webmaster@parliament.uk (UK Parliament Webmaster)</author>
+      <category>House of Lords</category>
+      <category>Select Committee</category>
+      <description>Wednesday 6 September 2017 - 10:15am - Room 1, Palace of Westminster
+        &lt;br /&gt;
+      Private Meeting</description>
+      <parlycal:event id="16112">
+        <parlycal:house>Lords</parlycal:house>
+        <parlycal:chamber>Select Committee</parlycal:chamber>
+        <parlycal:date>2017-09-06</parlycal:date>
+        <parlycal:startTime>10:15:00</parlycal:startTime>
+        <parlycal:comittee>Constitution Committee</parlycal:comittee>
+        <parlycal:inquiry>Private Meeting</parlycal:inquiry>
+        <parlycal:witnesses></parlycal:witnesses>
+        <parlycal:location>Room 1, Palace of Westminster</parlycal:location>
+        <parlycal:subject>Private Meeting</parlycal:subject>
+      </parlycal:event>
+    </item>
+    <item>
+      <title>House of Lords Select Committee - International Relations Committee</title>
+      <link>http://services.parliament.uk/calendar/Lords/SelectCommittee/2017/09/06/events.html</link>
+      <guid>http://services.parliament.uk/calendar/2017/09/06/events.html#16202</guid>
+      <author>webmaster@parliament.uk (UK Parliament Webmaster)</author>
+      <category>House of Lords</category>
+      <category>Select Committee</category>
+      <description>Wednesday 6 September 2017 - 10:30am - Room 4, Palace of Westminster
+        &lt;br /&gt;
+      Beyond Brexit: the UK and the Balkans - (at 10:30 AM) 
+General Sir Michael Rose KCB, CBE, DSO, QGM, Former Commander of the UN Protection Force in Bosnia-Herzegovina
+(at 11:30 AM) 
+The Lord Ashdown of Norton-sub-Hamdon GCMG, KBE, CH, Former High Representative for Bosnia-Herzegovina</description>
+      <parlycal:event id="16202">
+        <parlycal:house>Lords</parlycal:house>
+        <parlycal:chamber>Select Committee</parlycal:chamber>
+        <parlycal:date>2017-09-06</parlycal:date>
+        <parlycal:startTime>10:30:00</parlycal:startTime>
+        <parlycal:comittee>International Relations Committee</parlycal:comittee>
+        <parlycal:inquiry>Beyond Brexit: the UK and the Balkans</parlycal:inquiry>
+        <parlycal:witnesses>(at 10:30 AM) 
+General Sir Michael Rose KCB, CBE, DSO, QGM, Former Commander of the UN Protection Force in Bosnia-Herzegovina
+(at 11:30 AM) 
+The Lord Ashdown of Norton-sub-Hamdon GCMG, KBE, CH, Former High Representative for Bosnia-Herzegovina</parlycal:witnesses>
+        <parlycal:location>Room 4, Palace of Westminster</parlycal:location>
+        <parlycal:subject>Beyond Brexit: the UK and the Balkans</parlycal:subject>
+      </parlycal:event>
+    </item>
+    <item>
+      <title>House of Lords Select Committee - Citizenship and Civic Engagement</title>
+      <link>http://services.parliament.uk/calendar/Lords/SelectCommittee/2017/09/06/events.html</link>
+      <guid>http://services.parliament.uk/calendar/2017/09/06/events.html#16056</guid>
+      <author>webmaster@parliament.uk (UK Parliament Webmaster)</author>
+      <category>House of Lords</category>
+      <category>Select Committee</category>
+      <description>Wednesday 6 September 2017 - 10:30am - Room 3A, Palace of Westminster
+        &lt;br /&gt;
+      Citizenship and Civic Engagement - </description>
+      <parlycal:event id="16056">
+        <parlycal:house>Lords</parlycal:house>
+        <parlycal:chamber>Select Committee</parlycal:chamber>
+        <parlycal:date>2017-09-06</parlycal:date>
+        <parlycal:startTime>10:30:00</parlycal:startTime>
+        <parlycal:comittee>Citizenship and Civic Engagement</parlycal:comittee>
+        <parlycal:inquiry>Citizenship and Civic Engagement</parlycal:inquiry>
+        <parlycal:witnesses></parlycal:witnesses>
+        <parlycal:location>Room 3A, Palace of Westminster</parlycal:location>
+        <parlycal:subject>Citizenship and Civic Engagement</parlycal:subject>
+      </parlycal:event>
+    </item>
+    <item>
+      <title>House of Commons Westminster Hall - Westminster Hall debate - Graham P Jones</title>
+      <link>http://services.parliament.uk/calendar/Commons/WestminsterHall/2017/09/05/events.html</link>
+      <guid>http://services.parliament.uk/calendar/2017/09/05/events.html#16087</guid>
+      <author>webmaster@parliament.uk (UK Parliament Webmaster)</author>
+      <category>House of Commons</category>
+      <category>Westminster Hall</category>
+      <description>Tuesday 5 September 2017 - 9:30am - 11:00am
+        &lt;br /&gt;
+      Political situation in Venezuela</description>
+      <parlycal:event id="16087">
+        <parlycal:house>Commons</parlycal:house>
+        <parlycal:chamber>Westminster Hall</parlycal:chamber>
+        <parlycal:date>2017-09-05</parlycal:date>
+        <parlycal:startTime>09:30:00</parlycal:startTime>
+        <parlycal:endTime>11:00:00</parlycal:endTime>
+        <parlycal:comittee>Westminster Hall debate</parlycal:comittee>
+        <parlycal:inquiry>Political situation in Venezuela - Graham P Jones</parlycal:inquiry>
+        <parlycal:witnesses></parlycal:witnesses>
+        <parlycal:location></parlycal:location>
+        <parlycal:subject>Political situation in Venezuela</parlycal:subject>
+      </parlycal:event>
+    </item>
+    <item>
+      <title>House of Commons Westminster Hall - Westminster Hall debate - Mr Jim Cunningham</title>
+      <link>http://services.parliament.uk/calendar/Commons/WestminsterHall/2017/09/05/events.html</link>
+      <guid>http://services.parliament.uk/calendar/2017/09/05/events.html#16088</guid>
+      <author>webmaster@parliament.uk (UK Parliament Webmaster)</author>
+      <category>House of Commons</category>
+      <category>Westminster Hall</category>
+      <description>Tuesday 5 September 2017 - 11:00am - 11:30am
+        &lt;br /&gt;
+      Coventry city of culture</description>
+      <parlycal:event id="16088">
+        <parlycal:house>Commons</parlycal:house>
+        <parlycal:chamber>Westminster Hall</parlycal:chamber>
+        <parlycal:date>2017-09-05</parlycal:date>
+        <parlycal:startTime>11:00:00</parlycal:startTime>
+        <parlycal:endTime>11:30:00</parlycal:endTime>
+        <parlycal:comittee>Westminster Hall debate</parlycal:comittee>
+        <parlycal:inquiry>Coventry city of culture - Mr Jim Cunningham</parlycal:inquiry>
+        <parlycal:witnesses></parlycal:witnesses>
+        <parlycal:location></parlycal:location>
+        <parlycal:subject>Coventry city of culture</parlycal:subject>
+      </parlycal:event>
+    </item>
+    <item>
+      <title>House of Commons Westminster Hall - Westminster Hall debate - Neil Parish</title>
+      <link>http://services.parliament.uk/calendar/Commons/WestminsterHall/2017/09/05/events.html</link>
+      <guid>http://services.parliament.uk/calendar/2017/09/05/events.html#16089</guid>
+      <author>webmaster@parliament.uk (UK Parliament Webmaster)</author>
+      <category>House of Commons</category>
+      <category>Westminster Hall</category>
+      <description>Tuesday 5 September 2017 - 11:30am - 1:00pm
+        &lt;br /&gt;
+      New housing design</description>
+      <parlycal:event id="16089">
+        <parlycal:house>Commons</parlycal:house>
+        <parlycal:chamber>Westminster Hall</parlycal:chamber>
+        <parlycal:date>2017-09-05</parlycal:date>
+        <parlycal:startTime>11:30:00</parlycal:startTime>
+        <parlycal:endTime>13:00:00</parlycal:endTime>
+        <parlycal:comittee>Westminster Hall debate</parlycal:comittee>
+        <parlycal:inquiry>New housing design - Neil Parish</parlycal:inquiry>
+        <parlycal:witnesses></parlycal:witnesses>
+        <parlycal:location></parlycal:location>
+        <parlycal:subject>New housing design</parlycal:subject>
+      </parlycal:event>
+    </item>
+    <item>
+      <title>House of Commons Westminster Hall - Westminster Hall debate - Mr Philip Hollobone</title>
+      <link>http://services.parliament.uk/calendar/Commons/WestminsterHall/2017/09/05/events.html</link>
+      <guid>http://services.parliament.uk/calendar/2017/09/05/events.html#16090</guid>
+      <author>webmaster@parliament.uk (UK Parliament Webmaster)</author>
+      <category>House of Commons</category>
+      <category>Westminster Hall</category>
+      <description>Tuesday 5 September 2017 - 1:00pm - 1:30pm
+        &lt;br /&gt;
+      Combined fire and police service in Northamptonshire</description>
+      <parlycal:event id="16090">
+        <parlycal:house>Commons</parlycal:house>
+        <parlycal:chamber>Westminster Hall</parlycal:chamber>
+        <parlycal:date>2017-09-05</parlycal:date>
+        <parlycal:startTime>13:00:00</parlycal:startTime>
+        <parlycal:endTime>13:30:00</parlycal:endTime>
+        <parlycal:comittee>Westminster Hall debate</parlycal:comittee>
+        <parlycal:inquiry>Combined fire and police service in Northamptonshire - Mr Philip Hollobone</parlycal:inquiry>
+        <parlycal:witnesses></parlycal:witnesses>
+        <parlycal:location></parlycal:location>
+        <parlycal:subject>Combined fire and police service in Northamptonshire</parlycal:subject>
+      </parlycal:event>
+    </item>
+    <item>
+      <title>House of Commons Westminster Hall - Westminster Hall debate - Chuka Umunna</title>
+      <link>http://services.parliament.uk/calendar/Commons/WestminsterHall/2017/09/05/events.html</link>
+      <guid>http://services.parliament.uk/calendar/2017/09/05/events.html#16091</guid>
+      <author>webmaster@parliament.uk (UK Parliament Webmaster)</author>
+      <category>House of Commons</category>
+      <category>Westminster Hall</category>
+      <description>Tuesday 5 September 2017 - 1:30pm - 2:30pm
+        &lt;br /&gt;
+      Blacklisting</description>
+      <parlycal:event id="16091">
+        <parlycal:house>Commons</parlycal:house>
+        <parlycal:chamber>Westminster Hall</parlycal:chamber>
+        <parlycal:date>2017-09-05</parlycal:date>
+        <parlycal:startTime>13:30:00</parlycal:startTime>
+        <parlycal:endTime>14:30:00</parlycal:endTime>
+        <parlycal:comittee>Westminster Hall debate</parlycal:comittee>
+        <parlycal:inquiry>Blacklisting - Chuka Umunna</parlycal:inquiry>
+        <parlycal:witnesses></parlycal:witnesses>
+        <parlycal:location></parlycal:location>
+        <parlycal:subject>Blacklisting</parlycal:subject>
+      </parlycal:event>
+    </item>
+    <item>
+      <title>House of Commons Main Chamber - Oral questions</title>
+      <link>http://services.parliament.uk/calendar/Commons/MainChamber/2017/09/05/events.html</link>
+      <guid>http://services.parliament.uk/calendar/2017/09/05/events.html#16191</guid>
+      <author>webmaster@parliament.uk (UK Parliament Webmaster)</author>
+      <category>House of Commons</category>
+      <category>Main Chamber</category>
+      <description>Tuesday 5 September 2017 - 2:30pm
+        &lt;br /&gt;
+      Justice</description>
+      <parlycal:event id="16191">
+        <parlycal:house>Commons</parlycal:house>
+        <parlycal:chamber>Main Chamber</parlycal:chamber>
+        <parlycal:date>2017-09-05</parlycal:date>
+        <parlycal:startTime>14:30:00</parlycal:startTime>
+        <parlycal:comittee>Oral questions</parlycal:comittee>
+        <parlycal:inquiry>Justice</parlycal:inquiry>
+        <parlycal:witnesses></parlycal:witnesses>
+        <parlycal:location></parlycal:location>
+        <parlycal:subject>Justice</parlycal:subject>
+      </parlycal:event>
+    </item>
+    <item>
+      <title>House of Commons Main Chamber - Legislation - Sajid Javid</title>
+      <link>http://services.parliament.uk/calendar/Commons/MainChamber/2017/09/05/events.html</link>
+      <guid>http://services.parliament.uk/calendar/2017/09/05/events.html#16183</guid>
+      <author>webmaster@parliament.uk (UK Parliament Webmaster)</author>
+      <category>House of Commons</category>
+      <category>Main Chamber</category>
+      <description>Tuesday 5 September 2017
+        &lt;br /&gt;
+      Telecommunications Infrastructure (Relief from Non-Domestic Rates) Bill - Committee stage - Committee of the whole House</description>
+      <parlycal:event id="16183">
+        <parlycal:house>Commons</parlycal:house>
+        <parlycal:chamber>Main Chamber</parlycal:chamber>
+        <parlycal:date>2017-09-05</parlycal:date>
+        <parlycal:comittee>Legislation</parlycal:comittee>
+        <parlycal:inquiry>Telecommunications Infrastructure (Relief from Non-Domestic Rates) Bill - Committee stage - Committee of the whole House - Sajid Javid</parlycal:inquiry>
+        <parlycal:witnesses></parlycal:witnesses>
+        <parlycal:location></parlycal:location>
+        <parlycal:subject>Telecommunications Infrastructure (Relief from Non-Domestic Rates) Bill - Committee stage - Committee of the whole House</parlycal:subject>
+      </parlycal:event>
+    </item>
+    <item>
+      <title>House of Commons Main Chamber - Legislation - Sajid Javid</title>
+      <link>http://services.parliament.uk/calendar/Commons/MainChamber/2017/09/05/events.html</link>
+      <guid>http://services.parliament.uk/calendar/2017/09/05/events.html#16184</guid>
+      <author>webmaster@parliament.uk (UK Parliament Webmaster)</author>
+      <category>House of Commons</category>
+      <category>Main Chamber</category>
+      <description>Tuesday 5 September 2017
+        &lt;br /&gt;
+      Telecommunications Infrastructure (Relief from Non-Domestic Rates) Bill - Report stage</description>
+      <parlycal:event id="16184">
+        <parlycal:house>Commons</parlycal:house>
+        <parlycal:chamber>Main Chamber</parlycal:chamber>
+        <parlycal:date>2017-09-05</parlycal:date>
+        <parlycal:comittee>Legislation</parlycal:comittee>
+        <parlycal:inquiry>Telecommunications Infrastructure (Relief from Non-Domestic Rates) Bill - Report stage - Sajid Javid</parlycal:inquiry>
+        <parlycal:witnesses></parlycal:witnesses>
+        <parlycal:location></parlycal:location>
+        <parlycal:subject>Telecommunications Infrastructure (Relief from Non-Domestic Rates) Bill - Report stage</parlycal:subject>
+      </parlycal:event>
+    </item>
+    <item>
+      <title>House of Commons Main Chamber - Legislation - Sajid Javid</title>
+      <link>http://services.parliament.uk/calendar/Commons/MainChamber/2017/09/05/events.html</link>
+      <guid>http://services.parliament.uk/calendar/2017/09/05/events.html#16185</guid>
+      <author>webmaster@parliament.uk (UK Parliament Webmaster)</author>
+      <category>House of Commons</category>
+      <category>Main Chamber</category>
+      <description>Tuesday 5 September 2017
+        &lt;br /&gt;
+      Telecommunications Infrastructure (Relief from Non-Domestic Rates) Bill - 3rd reading</description>
+      <parlycal:event id="16185">
+        <parlycal:house>Commons</parlycal:house>
+        <parlycal:chamber>Main Chamber</parlycal:chamber>
+        <parlycal:date>2017-09-05</parlycal:date>
+        <parlycal:comittee>Legislation</parlycal:comittee>
+        <parlycal:inquiry>Telecommunications Infrastructure (Relief from Non-Domestic Rates) Bill - 3rd reading - Sajid Javid</parlycal:inquiry>
+        <parlycal:witnesses></parlycal:witnesses>
+        <parlycal:location></parlycal:location>
+        <parlycal:subject>Telecommunications Infrastructure (Relief from Non-Domestic Rates) Bill - 3rd reading</parlycal:subject>
+      </parlycal:event>
+    </item>
+    <item>
+      <title>House of Commons Main Chamber - Adjournment - Mrs Madeleine Moon</title>
+      <link>http://services.parliament.uk/calendar/Commons/MainChamber/2017/09/05/events.html</link>
+      <guid>http://services.parliament.uk/calendar/2017/09/05/events.html#16147</guid>
+      <author>webmaster@parliament.uk (UK Parliament Webmaster)</author>
+      <category>House of Commons</category>
+      <category>Main Chamber</category>
+      <description>Tuesday 5 September 2017
+        &lt;br /&gt;
+      Incontinence</description>
+      <parlycal:event id="16147">
+        <parlycal:house>Commons</parlycal:house>
+        <parlycal:chamber>Main Chamber</parlycal:chamber>
+        <parlycal:date>2017-09-05</parlycal:date>
+        <parlycal:comittee>Adjournment</parlycal:comittee>
+        <parlycal:inquiry>Incontinence - Mrs Madeleine Moon</parlycal:inquiry>
+        <parlycal:witnesses></parlycal:witnesses>
+        <parlycal:location></parlycal:location>
+        <parlycal:subject>Incontinence</parlycal:subject>
+      </parlycal:event>
+    </item>
+    <item>
+      <title>House of Lords Main Chamber - Legislation - Lord Callanan</title>
+      <link>http://services.parliament.uk/calendar/Lords/MainChamber/2017/09/05/events.html</link>
+      <guid>http://services.parliament.uk/calendar/2017/09/05/events.html#16044</guid>
+      <author>webmaster@parliament.uk (UK Parliament Webmaster)</author>
+      <category>House of Lords</category>
+      <category>Main Chamber</category>
+      <description>Tuesday 5 September 2017
+        &lt;br /&gt;
+      Air Travel Organisers' Licensing Bill - 2nd reading</description>
+      <parlycal:event id="16044">
+        <parlycal:house>Lords</parlycal:house>
+        <parlycal:chamber>Main Chamber</parlycal:chamber>
+        <parlycal:date>2017-09-05</parlycal:date>
+        <parlycal:comittee>Legislation</parlycal:comittee>
+        <parlycal:inquiry>Air Travel Organisers' Licensing Bill - 2nd reading - Lord Callanan</parlycal:inquiry>
+        <parlycal:witnesses></parlycal:witnesses>
+        <parlycal:location></parlycal:location>
+        <parlycal:subject>Air Travel Organisers' Licensing Bill - 2nd reading</parlycal:subject>
+      </parlycal:event>
+    </item>
+    <item>
+      <title>House of Lords Main Chamber - Debate - Lord Jay of Ewelme</title>
+      <link>http://services.parliament.uk/calendar/Lords/MainChamber/2017/09/05/events.html</link>
+      <guid>http://services.parliament.uk/calendar/2017/09/05/events.html#16100</guid>
+      <author>webmaster@parliament.uk (UK Parliament Webmaster)</author>
+      <category>House of Lords</category>
+      <category>Main Chamber</category>
+      <description>Tuesday 5 September 2017
+        &lt;br /&gt;
+      Report from the EU Committee 'Brexit: UK-Irish relations'</description>
+      <parlycal:event id="16100">
+        <parlycal:house>Lords</parlycal:house>
+        <parlycal:chamber>Main Chamber</parlycal:chamber>
+        <parlycal:date>2017-09-05</parlycal:date>
+        <parlycal:comittee>Debate</parlycal:comittee>
+        <parlycal:inquiry>Report from the EU Committee 'Brexit: UK-Irish relations' - Lord Jay of Ewelme</parlycal:inquiry>
+        <parlycal:witnesses></parlycal:witnesses>
+        <parlycal:location></parlycal:location>
+        <parlycal:subject>Report from the EU Committee 'Brexit: UK-Irish relations'</parlycal:subject>
+      </parlycal:event>
+    </item>
+    <item>
+      <title>House of Lords Select Committee - Lord Speaker's committee on the size of the House</title>
+      <link>http://services.parliament.uk/calendar/Lords/SelectCommittee/2017/09/05/events.html</link>
+      <guid>http://services.parliament.uk/calendar/2017/09/05/events.html#16079</guid>
+      <author>webmaster@parliament.uk (UK Parliament Webmaster)</author>
+      <category>House of Lords</category>
+      <category>Select Committee</category>
+      <description>Tuesday 5 September 2017 - 10:30am - Archbishops' Room, Millbank House
+        &lt;br /&gt;
+      Private Meeting</description>
+      <parlycal:event id="16079">
+        <parlycal:house>Lords</parlycal:house>
+        <parlycal:chamber>Select Committee</parlycal:chamber>
+        <parlycal:date>2017-09-05</parlycal:date>
+        <parlycal:startTime>10:30:00</parlycal:startTime>
+        <parlycal:comittee>Lord Speaker's committee on the size of the House</parlycal:comittee>
+        <parlycal:inquiry>Private Meeting</parlycal:inquiry>
+        <parlycal:witnesses></parlycal:witnesses>
+        <parlycal:location>Archbishops' Room, Millbank House</parlycal:location>
+        <parlycal:subject>Private Meeting</parlycal:subject>
+      </parlycal:event>
+    </item>
+    <item>
+      <title>House of Lords Select Committee - Political Polling and Digital Media</title>
+      <link>http://services.parliament.uk/calendar/Lords/SelectCommittee/2017/09/05/events.html</link>
+      <guid>http://services.parliament.uk/calendar/2017/09/05/events.html#16289</guid>
+      <author>webmaster@parliament.uk (UK Parliament Webmaster)</author>
+      <category>House of Lords</category>
+      <category>Select Committee</category>
+      <description>Tuesday 5 September 2017 - 10:30am - Room 2, Palace of Westminster
+        &lt;br /&gt;
+      Political Polling and Digital Media - </description>
+      <parlycal:event id="16289">
+        <parlycal:house>Lords</parlycal:house>
+        <parlycal:chamber>Select Committee</parlycal:chamber>
+        <parlycal:date>2017-09-05</parlycal:date>
+        <parlycal:startTime>10:30:00</parlycal:startTime>
+        <parlycal:comittee>Political Polling and Digital Media</parlycal:comittee>
+        <parlycal:inquiry>Political Polling and Digital Media</parlycal:inquiry>
+        <parlycal:witnesses></parlycal:witnesses>
+        <parlycal:location>Room 2, Palace of Westminster</parlycal:location>
+        <parlycal:subject>Political Polling and Digital Media</parlycal:subject>
+      </parlycal:event>
+    </item>
+    <item>
+      <title>House of Lords Select Committee - Natural Environment and Rural Communities Act 2006</title>
+      <link>http://services.parliament.uk/calendar/Lords/SelectCommittee/2017/09/05/events.html</link>
+      <guid>http://services.parliament.uk/calendar/2017/09/05/events.html#16123</guid>
+      <author>webmaster@parliament.uk (UK Parliament Webmaster)</author>
+      <category>House of Lords</category>
+      <category>Select Committee</category>
+      <description>Tuesday 5 September 2017 - 11:00am - Room 1, Palace of Westminster
+        &lt;br /&gt;
+      Natural Environment and Rural Communities Act 2006 - </description>
+      <parlycal:event id="16123">
+        <parlycal:house>Lords</parlycal:house>
+        <parlycal:chamber>Select Committee</parlycal:chamber>
+        <parlycal:date>2017-09-05</parlycal:date>
+        <parlycal:startTime>11:00:00</parlycal:startTime>
+        <parlycal:comittee>Natural Environment and Rural Communities Act 2006</parlycal:comittee>
+        <parlycal:inquiry>Natural Environment and Rural Communities Act 2006</parlycal:inquiry>
+        <parlycal:witnesses></parlycal:witnesses>
+        <parlycal:location>Room 1, Palace of Westminster</parlycal:location>
+        <parlycal:subject>Natural Environment and Rural Communities Act 2006</parlycal:subject>
+      </parlycal:event>
+    </item>
+    <item>
+      <title>House of Lords Select Committee - Communications Committee</title>
+      <link>http://services.parliament.uk/calendar/Lords/SelectCommittee/2017/09/05/events.html</link>
+      <guid>http://services.parliament.uk/calendar/2017/09/05/events.html#16081</guid>
+      <author>webmaster@parliament.uk (UK Parliament Webmaster)</author>
+      <category>House of Lords</category>
+      <category>Select Committee</category>
+      <description>Tuesday 5 September 2017 - 3:15pm - Room 2, Palace of Westminster
+        &lt;br /&gt;
+      Private Meeting</description>
+      <parlycal:event id="16081">
+        <parlycal:house>Lords</parlycal:house>
+        <parlycal:chamber>Select Committee</parlycal:chamber>
+        <parlycal:date>2017-09-05</parlycal:date>
+        <parlycal:startTime>15:15:00</parlycal:startTime>
+        <parlycal:comittee>Communications Committee</parlycal:comittee>
+        <parlycal:inquiry>Private Meeting</parlycal:inquiry>
+        <parlycal:witnesses></parlycal:witnesses>
+        <parlycal:location>Room 2, Palace of Westminster</parlycal:location>
+        <parlycal:subject>Private Meeting</parlycal:subject>
+      </parlycal:event>
+    </item>
+    <item>
+      <title>House of Lords Select Committee - Economic Affairs Committee</title>
+      <link>http://services.parliament.uk/calendar/Lords/SelectCommittee/2017/09/05/events.html</link>
+      <guid>http://services.parliament.uk/calendar/2017/09/05/events.html#16050</guid>
+      <author>webmaster@parliament.uk (UK Parliament Webmaster)</author>
+      <category>House of Lords</category>
+      <category>Select Committee</category>
+      <description>Tuesday 5 September 2017 - 3:30pm - Room 1, Palace of Westminster
+        &lt;br /&gt;
+      Private Meeting</description>
+      <parlycal:event id="16050">
+        <parlycal:house>Lords</parlycal:house>
+        <parlycal:chamber>Select Committee</parlycal:chamber>
+        <parlycal:date>2017-09-05</parlycal:date>
+        <parlycal:startTime>15:30:00</parlycal:startTime>
+        <parlycal:comittee>Economic Affairs Committee</parlycal:comittee>
+        <parlycal:inquiry>Private Meeting</parlycal:inquiry>
+        <parlycal:witnesses></parlycal:witnesses>
+        <parlycal:location>Room 1, Palace of Westminster</parlycal:location>
+        <parlycal:subject>Private Meeting</parlycal:subject>
+      </parlycal:event>
+    </item>
+    <item>
+      <title>House of Lords Select Committee - Secondary Legislation Scrutiny Committee (formerly Merits Committee)</title>
+      <link>http://services.parliament.uk/calendar/Lords/SelectCommittee/2017/09/05/events.html</link>
+      <guid>http://services.parliament.uk/calendar/2017/09/05/events.html#16064</guid>
+      <author>webmaster@parliament.uk (UK Parliament Webmaster)</author>
+      <category>House of Lords</category>
+      <category>Select Committee</category>
+      <description>Tuesday 5 September 2017 - 3:45pm - Room 3A, Palace of Westminster
+        &lt;br /&gt;
+      Private Meeting</description>
+      <parlycal:event id="16064">
+        <parlycal:house>Lords</parlycal:house>
+        <parlycal:chamber>Select Committee</parlycal:chamber>
+        <parlycal:date>2017-09-05</parlycal:date>
+        <parlycal:startTime>15:45:00</parlycal:startTime>
+        <parlycal:comittee>Secondary Legislation Scrutiny Committee (formerly Merits Committee)</parlycal:comittee>
+        <parlycal:inquiry>Private Meeting</parlycal:inquiry>
+        <parlycal:witnesses></parlycal:witnesses>
+        <parlycal:location>Room 3A, Palace of Westminster</parlycal:location>
+        <parlycal:subject>Private Meeting</parlycal:subject>
+      </parlycal:event>
+    </item>
+  </channel>
+</rss>

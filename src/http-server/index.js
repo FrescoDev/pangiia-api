@@ -48,7 +48,7 @@ app.listen(settings.port, () => {
     Connected on:
     
     Port: ${settings.port}
-    Env: ${app.get('env')}
+    Env: ${process.env.NODE_ENV}
     
   `)
 })

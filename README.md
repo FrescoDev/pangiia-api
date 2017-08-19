@@ -18,7 +18,8 @@ The Pangiia API
 1. Clone the repo
 2. Run: ```npm install``` to install project dependencies
 3. Run: ```npm run build``` to transpile and build the application
-4. Run: ```npm start``` to kickstart and run the server
+4. Run: ```npm start``` to kickstart and run the server OR Run: ```npm start | bunyan``` to kickstart and run the server with prettyfied logging (*requires install of bunyan).
+5. Run: ```npm run start-dev``` to kickstart the application using local environment stubs for development.
 
 ### Deploy to Heroku
 
