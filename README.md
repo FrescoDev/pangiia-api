@@ -3,6 +3,7 @@
 The Pangiia API
 
 * DEV URL: [__DEV_LINK__]
+* STAGING URL: [__STAGINGÏ_LINK__]
 * LIVE URL: [__LIVE_LINK__]
 
 [![Build Status](https://travis-ci.org/FrescoDev/pangiia-api.svg?branch=master)](https://travis-ci.org/FrescoDev/pangiia-api)
