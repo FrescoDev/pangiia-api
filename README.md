@@ -9,24 +9,23 @@ The Pangiia API
 
 ### Prerequisities
 
-* node/npm 8.2.1/5.3.0
-* nodemon
+* Node v6+
+* (Optional) Bunyan - used for formatted logging output
 
 ### Install and Run Locally
 
 1. Clone the repo
 2. Run: ```npm install``` to install project dependencies
 3. Run: ```npm run build``` to transpile and build the application
-4. Run: ```npm start``` to kickstart and run the server OR Run: ```npm start | bunyan``` to kickstart and run the server with prettyfied logging (*requires install of bunyan).
-5. Run: ```npm run start:dev``` to kickstart the application using local environment stubs for development.
+4. Run: ```npm start``` to kickstart and run the server OR Run: ```npm start | bunyan``` to kickstart and run the server with prettyfied logging (*requires install of bunyan). For development, it is recommended to Run: ```npm run start:local-env``` as a separate process before starting the server. This will kickstart a local environment stub server to stimulate external production dependencies. These dependencies can be edited as required (see local-env).
 
 ## Running the Tests
 
 - ```npm run test```
 
-## Testing the API
+## Debugging the API
 
-Test the API using [Postman](https://www.getpostman.com/collections/{id})
+Test the API using [Postman](https://www.getpostman.com/collections/fd959ef457269b085be4)
 
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/fd959ef457269b085be4)
 
