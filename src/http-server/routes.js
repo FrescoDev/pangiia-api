@@ -1,4 +1,4 @@
-import { getEventfeedRequestHandler, getServerStatusRequestHandler } from './resources/request.handlers'
+import { handleGetEventFeedRequest, handleGetServerStatusRequest } from './resources/request.handlers'
 import { Router } from 'express'
 import bunyanMiddleware from 'bunyan-middleware'
 import bunyan from 'bunyan'
@@ -7,7 +7,8 @@ const logger = bunyan.createLogger({ name: 'PANGIIA-API', serializers: bunyan.st
 const requestLogger = bunyanMiddleware({
     logger: logger,
     headerName: 'Pangiia-Request-Id',
-    obscureHeaders: ['authorization']
+    obscureHeaders: ['authorization'],
+    level: (process.env.NODE_ENV === 'development') ? 'debug' : 'info'
 });
 
 /**
@@ -19,7 +20,7 @@ const requestLogger = bunyanMiddleware({
  */
 const routes = new Router()
     .use(requestLogger)
-    .get('/server-status', getServerStatusRequestHandler)
-    .get('/event-feed', getEventfeedRequestHandler)
+    .get('/server-status', handleGetServerStatusRequest)
+    .get('/event-feed', handleGetEventFeedRequest)
 
 export default routes

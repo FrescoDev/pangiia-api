@@ -1,7 +1,7 @@
-import getEventfeedRequestHandler from './event-feed/get.request/handler'
-import getServerStatusRequestHandler from './server-status/get.request/handler'
+import handleGetEventFeedRequest from './event-feed/get.request/handler'
+import handleGetServerStatusRequest from './server-status/get.request/handler'
 
 module.exports = {
-    getServerStatusRequestHandler,
-    getEventfeedRequestHandler
+    handleGetServerStatusRequest,
+    handleGetEventFeedRequest
 };

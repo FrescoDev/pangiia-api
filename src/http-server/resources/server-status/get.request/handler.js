@@ -6,7 +6,7 @@
  * @return  {null} 
  */
 
-const getServerStatusRequestHandler = (req, res) => {
+const handleGetServerStatusRequest = (req, res) => {
     req.log.info({ modulePath: global.getCurrentModuleId(__filename) }, 'Handling GET Server Status Request');
 
     res.json({
@@ -15,4 +15,4 @@ const getServerStatusRequestHandler = (req, res) => {
     })
 }
 
-export default getServerStatusRequestHandler
+export default handleGetServerStatusRequest

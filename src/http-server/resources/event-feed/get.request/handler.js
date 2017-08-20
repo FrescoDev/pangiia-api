@@ -7,7 +7,7 @@ import processRequest from './workflow'
  * @param  {object} res Express's callback response object
  * @return  {null} 
  */
-const getEventfeedRequestHandler = async (req, res) => {
+const handleGetEventFeedRequest = async (req, res) => {
     const moduleId = global.getCurrentModuleId(__filename)
     req.log.info({ modulePath: moduleId }, 'Handling GET Event Feed Request');
 
@@ -38,4 +38,4 @@ const getEventfeedRequestHandler = async (req, res) => {
     }
 }
 
-export default getEventfeedRequestHandler
+export default handleGetEventFeedRequest
