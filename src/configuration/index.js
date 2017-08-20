@@ -39,10 +39,19 @@ const environmentConfigs = {
             parliamentCalendarRSSFeed: {
                 mainUrl: 'http://localhost:3000/rss-calendar-feed'
             }
-        },
-        port: 5678
+        }
     },
-    production: {}
+    production: {
+        dataSources: {
+            parliamentCalendarRSSFeed: {
+                mainUrl: 'http://services.parliament.uk/calendar/all.rss'
+            }
+        },
+        logging: {
+            level: 'info',
+            filePath: '/var/tmp/pangiia-api.log'
+        }
+    }
 }
 
 /**
