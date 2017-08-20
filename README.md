@@ -29,7 +29,7 @@ The Pangiia API
 
 Test the API using [Postman](https://www.getpostman.com/collections/{id})
 
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/{id})
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/fd959ef457269b085be4)
 
 ## Request & Response Examples
 
