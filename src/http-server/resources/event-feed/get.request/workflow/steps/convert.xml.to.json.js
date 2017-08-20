@@ -18,9 +18,10 @@ const convertXmlToJSON = (RSSFeedXml, logger) => {
         return parliamentCalendarRSSFeedJson
 
     } catch (error) {
-        const debugString = `Conversion of parliamentary calendar feed from XML to JSON failed with error message:${error}`
+        const debugString = `Conversion of parliamentary calendar feed from XML to JSON failed with error message - ${error}`
+        logger.error(debugString)
 
-        throw new Error(debugString)
+        throw new Error()
     }
 }
 

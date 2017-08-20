@@ -33,8 +33,8 @@ const getEventfeedRequestHandler = async (req, res) => {
         req.log.info({ modulePath: moduleId }, 'Request processing was unsuccessful. Returning error to client with 400 status code.');
 
         res
-            .status(400)
-            .json({ response: error.message })
+            .status(500)
+            .json({ response: 'Failed to retrieve event feed data' })
     }
 }
 

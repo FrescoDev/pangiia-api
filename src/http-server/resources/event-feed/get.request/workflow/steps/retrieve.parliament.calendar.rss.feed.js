@@ -17,16 +17,18 @@ const retrieveRSSFeedXml = async (logger) => {
         const response = await request(url)
 
         if (responseIsInvalid(response)) {
-            throw new Error('Unable to retrieve valid response from parliament calendar RSS Feed')
+            logger.error('Unable to retrieve valid response from parliament calendar RSS Feed')
+            throw new Error()
         }
 
         const parliamentCalendarRSSFeedXml = await response.text()
         return parliamentCalendarRSSFeedXml
 
     } catch (error) {
-        const debugMessage = `HTTP request to calendar RSS Failed with exception message: ${error}`
+        const debugMessage = `HTTP request to parliament events calendar RSS feed failed with exception message - ${error}`
+        logger.error(debugMessage)
 
-        throw new Error(debugMessage)
+        throw new Error()
     }
 }
 

@@ -42,9 +42,10 @@ const mapRSSFeedToEventFeed = (RSSFeed, logger) => {
 
         return eventFeed
     } catch (error) {
-        const debugString = `Mapping of calendar parliament RSS feed to event feed failed with error: ${error}`
+        const debugString = `Mapping of calendar parliament RSS feed to event feed failed with error - ${error}`
+        logger.error(debugString)
 
-        throw new Error(debugString)
+        throw new Error()
     }
 }
 
