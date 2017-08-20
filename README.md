@@ -48,7 +48,7 @@ Response body:
         "status": "ok"
     }
 
-Content-Type: applicaton/json
+Content-Type: application/json
 
   - [GET /event-feed](#get-event-feed)
 
@@ -77,4 +77,4 @@ Response body:
         }
     }
 
-Content-Type: applicaton/json
+Content-Type: application/json
