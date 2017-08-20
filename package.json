@@ -6,7 +6,7 @@
     "scripts": {
         "build": "babel src -d build",
         "postinstall": "npm run build",
-        "clean": "rm -rf build && rm -rf node_modules",
+        "clean": "rm -rf build && rm -rf node_modules && rm -rf coverage",
         "start:dev": "concurrently \"npm run start:local-env\"  \"npm run start\" -k",
         "start:local-env": "nodemon ./local-env/index.js",
         "start": "nodemon index.js",
