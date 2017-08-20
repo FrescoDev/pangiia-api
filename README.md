@@ -9,9 +9,8 @@ The Pangiia API
 
 ### Prerequisities
 
-* node/npm
+* node/npm 8.2.1/5.3.0
 * nodemon
-* heroku-cli
 
 ### Install and Run Locally
 
