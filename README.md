@@ -21,17 +21,6 @@ The Pangiia API
 4. Run: ```npm start``` to kickstart and run the server OR Run: ```npm start | bunyan``` to kickstart and run the server with prettyfied logging (*requires install of bunyan).
 5. Run: ```npm run start:dev``` to kickstart the application using local environment stubs for development.
 
-### Deploy to Heroku
-
-1. Run: ```heroku login``` and enter credentials
-2. Run: ```heroku create``` to create the app on Heroku
-3. Run: ```git push heroku master``` to activate the deployment
-4. Run: ```heroku ps:scale web=1git push heroku master``` to ensure at least one instance of the app is running
-5. Run: ```heroku open``` to visit the app's URL
-6. Run: ```heroku logs``` to view app logs
-7. Run: ```heroku addons:create deployhooks:http --url https://hooks.slack.com/services/{token}``` to add slack deploy hook
-8. Run: ```heroku apps:rename [newname]``` to rename the app
-
 ## Running the Tests
 
 - ```npm run test```
@@ -46,15 +35,46 @@ Test the API using [Postman](https://www.getpostman.com/collections/{id})
 
 ### API Resources
 
-  - [GET /meta](#get-meta)
+  - [GET /server-status](#get-server-status)
 
-### GET /meta
+### GET /server-status
 
-Example: http:/{url}/meta
+Example: http:/{url}/server-status
 
 Response body:
 
     {
-        "description": "pangiia api",
+        "id": "pangiia api",
         "status": "ok"
     }
+
+Content-Type: applicaton/json
+
+  - [GET /event-feed](#get-event-feed)
+
+### GET /event-feed
+
+Example: http:/{url}/event-feed
+
+Response body:
+
+    {
+        "data": {
+            "events": [
+                {
+                    "scheduledTime": "09:30:00",
+                    "scheduledDate": "2017-09-14",
+                    "house": "Commons",
+                    "chamber": "Main Chamber",
+                    "title": "House of Commons Main Chamber - Oral questions",
+                    "categories": [
+                        "House of Commons",
+                        "Main Chamber"
+                    ],
+                    "description": "Thursday 14 September 2017 - 9:30am\n \nDigital, Culture, Media and Sport (including Topical Questions)"
+                }
+            ]
+        }
+    }
+
+Content-Type: applicaton/json
