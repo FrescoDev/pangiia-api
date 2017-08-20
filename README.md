@@ -23,6 +23,7 @@ The Pangiia API
 ## Running the Tests
 
 - ```npm run test```
+- ```npm run coverage``` will generate a test coverage report and ```npm run coverage:view``` will open up the generated test coverage report file in your default browser.
 
 ## Debugging the API
 
