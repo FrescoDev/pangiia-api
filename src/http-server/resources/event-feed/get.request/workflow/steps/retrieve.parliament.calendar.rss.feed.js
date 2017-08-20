@@ -9,7 +9,7 @@ import { responseIsInvalid } from '../../../../../shared-utilities/http/validati
 const retrieveRSSFeedXml = async (logger) => {
     const moduleId = global.getCurrentModuleId(__filename)
 
-    logger.info({ modulePath: moduleId, actionType: 'IO', actionDescription: 'HTTP_REQUEST' }, 'Request processing workflow step 1: get the calendar events in their native format');
+    logger.info({ modulePath: moduleId, operationType: 'IO', operationDescription: 'HTTP_REQUEST' }, 'Request processing workflow step 1: get the calendar events in their native format');
 
     try {
 

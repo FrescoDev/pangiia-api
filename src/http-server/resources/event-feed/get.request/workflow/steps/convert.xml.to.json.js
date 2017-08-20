@@ -9,7 +9,7 @@ import parser from 'xml2json'
 const convertXmlToJSON = (RSSFeedXml, logger) => {
     const moduleId = global.getCurrentModuleId(__filename)
 
-    logger.info({ modulePath: moduleId, actionType: 'IN_MEMORY', actionDescription: 'JSON_FORMATTING' }, 'Request processing workflow step 2: convert the calendar events from xml to json format');
+    logger.info({ modulePath: moduleId, operationType: 'IN_MEMORY', operationDescription: 'JSON_FORMATTING' }, 'Request processing workflow step 2: convert the calendar events from xml to json format');
 
     try {
         const options = { object: true }

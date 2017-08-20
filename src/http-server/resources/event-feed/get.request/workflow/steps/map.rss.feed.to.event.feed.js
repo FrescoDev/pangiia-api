@@ -9,7 +9,7 @@ import striptags from 'striptags'
 const mapRSSFeedToEventFeed = (RSSFeed, logger) => {
     const moduleId = global.getCurrentModuleId(__filename)
 
-    logger.info({ modulePath: moduleId, actionType: 'IN_MEMORY', actionDescription: 'DATA_MAPPING' }, 'Request processing workflow step 3: reshape the calendar event data to fit our client');
+    logger.info({ modulePath: moduleId, operationType: 'IN_MEMORY', operationDescription: 'DATA_MAPPING' }, 'Request processing workflow step 3: reshape the calendar event data to fit our client');
 
     try {
         const eventFeedArray = RSSFeed.rss.channel.item.map(RSSFeedItem => {
