@@ -27,7 +27,8 @@ const getCurrentModuleId = filePath => {
         pathNodeArray.removeExtras = removeExtraNodes
         pathNodeArray.removeExtras()
 
-        const formattedFilePath = pathNodeArray.join('->')
+        let formattedFilePath = pathNodeArray.join('->')
+        formattedFilePath = formattedFilePath + '\n'
 
         return formattedFilePath
 
