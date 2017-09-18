@@ -30,7 +30,7 @@ const handleGetEventFeedRequest = async (req, res) => {
         }
 
     } catch (error) {
-        req.log.info({ modulePath: moduleId }, 'Request processing was unsuccessful. Returning error to client with 400 status code.');
+        req.log.info({ modulePath: moduleId }, 'Request processing was unsuccessful. Returning error to client with 500 status code.');
 
         res
             .status(500)
