@@ -1,6 +1,9 @@
 const express = require('express')
 const app = express()
+const morgan = require('morgan')
 const port = 3000
+
+app.use(morgan('dev'))
 
 app.get('/rss-calendar-feed', function (req, res) {
     res.set('Content-Type', 'text/xml')

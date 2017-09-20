@@ -30,7 +30,7 @@ const environmentConfigs = {
     development: {
         dataSources: {
             parliamentCalendarRSSFeed: {
-                mainUrl: 'http://services.parliament.uk/calendar/all.rss'
+                mainUrl: 'http://localhost:3000/rss-calendar-feed'
             }
         }
     },
