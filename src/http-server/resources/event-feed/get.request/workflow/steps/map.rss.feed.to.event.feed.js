@@ -1,4 +1,6 @@
 import striptags from 'striptags'
+import R from 'ramda'
+import dateFormat from 'dateformat'
 
 /**
  * Description: Simple map of the RSS feed data object to the destination event feed.
@@ -9,7 +11,11 @@ import striptags from 'striptags'
 const mapRSSFeedToEventFeed = (RSSFeed, logger) => {
     const moduleId = global.getCurrentModuleId(__filename)
 
-    logger.info({ modulePath: moduleId, operationType: 'IN_MEMORY', operationDescription: 'DATA_MAPPING' }, 'Request processing workflow step 3: reshape the calendar event data to fit our client');
+    logger.info({
+        modulePath: moduleId,
+        operationType: 'IN_MEMORY',
+        operationDescription: 'DATA_MAPPING'
+    }, 'Request processing workflow step 3: reshape the calendar event data to fit our client');
 
     try {
         const eventFeedArray = RSSFeed.rss.channel.item.map(RSSFeedItem => {
@@ -21,13 +27,14 @@ const mapRSSFeedToEventFeed = (RSSFeed, logger) => {
             const parliamentaryEventHouse = parliamentaryEvent['parlycal:house']
             const parliamentaryEventChamber = parliamentaryEvent['parlycal:chamber']
 
-            const cleanDescriptionString = rawString => striptags(rawString.replace('       ', '').replace('      ', ''))
+            const filterBadCharacters = R.compose(striptags, R.trim)
+            const description = filterBadCharacters(RSSFeedItem.description)
 
-            const description = cleanDescriptionString(RSSFeedItem.description)
+            const date = dateFormat(parliamentaryEventDate, 'fullDate')
 
             return {
                 scheduledTime: parliamentaryEventTime,
-                scheduledDate: parliamentaryEventDate,
+                scheduledDate: date,
                 house: parliamentaryEventHouse,
                 chamber: parliamentaryEventChamber,
                 title: RSSFeedItem.title,
